@@ -18,9 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About Me
-AI Researcher | Software Engineer | Tech Enthusiast | Lifelong Learner
 
-I received my B.Eng. degree in Artificial Intelligence from **Yangzhou University** in July 2025 and was directly admitted to pursue my graduate studies at **University of Electronic Science and Technology of China (UESTC)**, where I am currently a first-year master's student.
+<span class='anchor' id='about-me'></span>
+# 👨‍💻 About Me
+
+<span class='anchor' id='about-me'></span>
+I am **Jiangkuanli**, a first-year master's student in Artificial Intelligence at the **University of Electronic Science and Technology of China (UESTC)**, where I was admitted through recommendation without an entrance exam. I earned my B.Eng. degree in **Artificial Intelligence** from **Yangzhou University** in July 2025.  
+
+My research interests focus on **transfer learning, cross-modal retrieval, and person re-identification**. I am dedicated to exploring innovative approaches that push the boundaries of intelligent systems and their applications.  
+
+If you are interested in my work, feel free to contact me via [email](mailto:jiangkuanli@163.com.com), connect with me on [GitHub](https://github.com/Re-ljk), or visit my [personal academic blog](https://www.leejk-magic.top/) for research updates and project insights. I am always open to collaborations and academic exchanges.
+
+
 
 ## 🧠 Research Interests
 - Transfer Learning  
