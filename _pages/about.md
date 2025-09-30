@@ -21,7 +21,7 @@ redirect_from:
 
 &emsp;&emsp;My research interests focus on **🔄 transfer learning, 🖼️cross-modal retrieval and 🕵️‍♂️person re-identification**. I am dedicated to exploring innovative approaches that push the boundaries of intelligent systems and their applications.  
 
-&emsp;&emsp;If you are interested in my work, feel free to contact me via [email](mailto:jiangkuanli@163.com.com), connect with me on [GitHub](https://github.com/Re-ljk), or visit my [personal academic blog](https://www.leejk-magic.top/) for research updates and project insights. I am always open to collaborations and academic exchanges.
+&emsp;&emsp;If you are interested in my work, feel free to contact me via [email](mailto:jiangkuanli@163.com.com), connect with me on [GitHub](https://github.com/Re-ljk), or visit my [personal blog](https://www.leejk-magic.top/) for research updates and project insights. I am always open to collaborations and academic exchanges.
 
 
 
