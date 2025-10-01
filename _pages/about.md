@@ -74,7 +74,7 @@ redirect_from:
 - Excellent Team in Social Practice (Oct 2024, Team of 5, Rank 3)  
 
 # 📖 Education
-- *2024.09 - Present*: Graduate student in Software Engineering, University of Electronic Science and Technology of China (UESTC)  
+- *2025.09 - Present*: Graduate student in Software Engineering, University of Electronic Science and Technology of China (UESTC)  
 - *2021.09 - 2025.06*: Bachelor’s degree in Artificial Intelligence, Yangzhou University
 
 # 💬 Invited Talks
