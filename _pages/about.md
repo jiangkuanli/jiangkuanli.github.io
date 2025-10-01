@@ -31,7 +31,7 @@ redirect_from:
 - 🕵️‍♂️ **Person Re-identification**
 
 # 🔥 News
-- *2025.06*: 🌟 Graduated with B.Eng. in Artificial Intelligence from Yangzhou University.
+- *2025.06*: 🌟 Graduated with bachelor’s degree in Artificial Intelligence from Yangzhou University.
 - *2024.09*: 🎓 Admitted to UESTC for graduate studies without entrance exam.
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
