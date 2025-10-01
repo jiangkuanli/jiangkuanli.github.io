@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-&emsp;&emsp;I am **Jiangkuan Li**, a first-year master's student in Artificial Intelligence at the **University of Electronic Science and Technology of China (UESTC)**, where I was admitted through recommendation without an entrance exam. I earned my B.Eng. degree in **Artificial Intelligence** from **Yangzhou University** in June 2025. 
+&emsp;&emsp;I am **Jiangkuan Li**, a first-year master's student in Software Engineering at the **University of Electronic Science and Technology of China (UESTC)**, where I was admitted through recommendation without an entrance exam. I received my Bachelor of Engineering degree in Artificial Intelligence from **Yangzhou University** in June 2025.
 
 &emsp;&emsp;My research interests focus on **🔄 transfer learning, 🖼️cross-modal retrieval and 🕵️‍♂️person re-identification**. I am dedicated to exploring innovative approaches that push the boundaries of intelligent systems and their applications.  
 
@@ -74,8 +74,8 @@ redirect_from:
 - Excellent Team in Social Practice (Oct 2024, Team of 5, Rank 3)  
 
 # 📖 Education
-- *2024.09 - Present*: Graduate student in Artificial Intelligence, University of Electronic Science and Technology of China (UESTC)  
-- *2021.09 - 2025.06*: B.Eng. in Artificial Intelligence, Yangzhou University  
+- *2024.09 - Present*: Graduate student in Software Engineering, University of Electronic Science and Technology of China (UESTC)  
+- *2021.09 - 2025.06*: Bachelor’s degree in Artificial Intelligence, Yangzhou University
 
 # 💬 Invited Talks
 - To be updated
