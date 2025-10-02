@@ -8,13 +8,13 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications & Patents"
+  - title: "Publications and Patents"
     url: "/#-publications--patents"
 
-  - title: "Competitions & Achievements"
+  - title: "Competitions and Achievements"
     url: "/#-competitions--achievements"
 
-  - title: "Honors & Awards"
+  - title: "Honors and Awards"
     url: "/#-honors--awards"
 
   - title: "Education"
