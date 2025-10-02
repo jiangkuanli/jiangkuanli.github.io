@@ -1,6 +1,6 @@
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
 
   - title: "Research Interests"
     url: "/#-research-interests"
@@ -9,13 +9,13 @@ main:
     url: "/#-news"
 
   - title: "Publications and Patents"
-    url: "/#-publications-patents"
+    url: "/#-publications-and-patents"
 
   - title: "Competitions and Achievements"
-    url: "/#-competitions-achievements"
+    url: "/#-competitions-and-achievements"
 
   - title: "Honors and Awards"
-    url: "/#-honors-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Education"
     url: "/#-education"
