@@ -9,13 +9,13 @@ main:
     url: "/#-news"
 
   - title: "Publications and Patents"
-    url: "/#-publications--patents"
+    url: "/#-publications-patents"
 
   - title: "Competitions and Achievements"
-    url: "/#-competitions--achievements"
+    url: "/#-competitions-achievements"
 
   - title: "Honors and Awards"
-    url: "/#-honors--awards"
+    url: "/#-honors-awards"
 
   - title: "Education"
     url: "/#-education"
