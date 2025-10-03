@@ -35,12 +35,14 @@ redirect_from:
 - *2024.09*: 🎓 Admitted to UESTC for graduate studies without entrance exam.
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
-# 📝 Publications and Patents
-- 2024: **Paper** - *Online and Offline Model for Housekeeping Order Assignment Based on Dynamic Programming Algorithm*  
-- 2023: **Paper** - *Base Station Planning Based on Region Division and Mean Shift Clustering*  
-- 2024: **Patent** - *A Backdoor Defense Method Achieved by Attention-based Transfer in Federated Multi-Teacher Distillation*  
-- 2023.05 - 2024.05: **Research Project** - Optimization of Vehicular Network Communication Resource Allocation Based on Multi-Agent Deep Reinforcement Learning  
-- 2023.05 - 2024.05: **Research Project** - Research on Streaming Media Classification and Abnormal Traffic Detection Algorithms  
+# 📝 Publications
+- <b style="color:#1E90FF;">[AAAI 2025]</b> 
+  <span style="color:#0000EE; text-decoration:underline;">Attribute-Decoupled Multi-Subspace Proxy Learning for Text-Image Person Re-identification</span>  
+  <br>
+  <span style="color:gray;">Xinpeng Lu, [Your Co-authors Here]</span>. 
+  <span style="color:red;">(Under review)</span> <span style="color:#B22222;">(CCF-A)</span>
+
+
 
 # 🚀 Competitions and Achievements
 - 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
