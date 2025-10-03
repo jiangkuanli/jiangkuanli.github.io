@@ -36,11 +36,7 @@ redirect_from:
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
 # 📝 Publications
-- <b style="color:#1E90FF;">[AAAI 2025]</b> 
-  <span style="color:#0000EE; text-decoration:underline;">Attribute-Decoupled Multi-Subspace Proxy Learning for Text-Image Person Re-identification</span>  
-  <br>
-  <span style="color:gray;">Xinpeng Lu, [Your Co-authors Here]</span>. 
-  <span style="color:red;">(Under review)</span> <span style="color:#B22222;">(CCF-A)</span>
+- [AAAI 2025] Attribute-Decoupled Multi-Subspace Proxy Learning for Text-Image Person Re-identification (Under review)
 
 
 
