@@ -34,7 +34,7 @@ redirect_from:
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
 # 📝 Publications
-- [AAAI 2025] Attribute-Decoupled Multi-Subspace Proxy Learning for Text-Image Person Re-identification — <span style="color:#e67300"><i>Under Review</i></span>
+[<span style="color:#1e90ff">AAAI 2025, CCF-A</span>] Attribute-Decoupled Multi-Subspace Proxy Learning for Text-Image Person Re-identification — <span style="color:#e67300"><i>Under Review</i></span>
 
 
 
