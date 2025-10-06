@@ -60,7 +60,7 @@ redirect_from:
 - 2022.06: Second Prize, Yangzhou University Mathematical Modeling Competition (Team of 3, Rank 1)  
 
 # 🎖 Honors and Awards
-- Outstanding Graduate(2025.06)
+- Outstanding Graduate(June 2025)
 - National Endeavor Scholarship (2022, 2023, 2024)  
 - University “Three Good Student” (Dec 2023)  
 - Excellent Student Cadre (Dec 2024)  
