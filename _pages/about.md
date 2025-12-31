@@ -38,6 +38,10 @@ redirect_from:
 - [<span style="color:#1e90ff">CVPR, CCF-A</span>] Two papers submitted to CVPR — <span style="color:#ff0000"><i>Under Review</i></span>  
 - [<span style="color:#1e90ff">ICME</span>] One paper submitted to CVPR — <span style="color:#ff0000"><i>Under Review</i></span>
 
+## 📜 Patents
+- A Wavelet-Enhanced Test-Time Adaptation Method for Real-World Degradation Scenarios (3/5) — <span style="color:#ff0000"><i>Accepted</i></span>  
+- An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-identification (2/5) — <span style="color:#ff0000"><i>Accepted</i></span>
+
 
 
 # 🚀 Competitions and Achievements
