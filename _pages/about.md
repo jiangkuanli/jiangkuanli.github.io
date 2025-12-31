@@ -35,7 +35,7 @@ redirect_from:
 
 ## 📝 Publications
 - [<span style="color:#1e90ff">CVPR, CCF-A</span>] Two papers submitted to CVPR2026 — <span style="color:#ff0000"><i>Under Review</i></span>  
-- [<span style="color:#1e90ff">ICME</span>] One paper submitted to ICME2026 — <span style="color:#ff0000"><i>Under Review</i></span>
+- [<span style="color:#1e90ff">ICME, CCF-B</span>] One paper submitted to ICME2026 — <span style="color:#ff0000"><i>Under Review</i></span>
 
 ## 📜 Patents
 - A Wavelet-Enhanced Test-Time Adaptation Method for Real-World Degradation Scenarios (2/5) — <span style="color:#ff0000"><i>Patent Application Accepted</i></span>  
