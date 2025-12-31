@@ -10,6 +10,9 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+    
+  - title: "Patents"
+    url: "/#-Patents"
 
   - title: "Competitions and Achievements"
     url: "/#-competitions-and-achievements"
