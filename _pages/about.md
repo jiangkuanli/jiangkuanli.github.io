@@ -27,14 +27,21 @@ redirect_from:
 - 🔄 **Transfer Learning**  
 - 🖼️ **Cross-modal Retrieval**  
 - 🕵️‍♂️ **Person Re-identification**
+- 🤖 **Multimodal Large Models**
 
 # 🔥 News
 - *2025.06*: 🌟 Graduated with bachelor’s degree in Artificial Intelligence from Yangzhou University.
 - *2024.09*: 🎓 Admitted to UESTC for graduate studies without entrance exam.
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
-# 📝 Publications
-- [<span style="color:#1e90ff">AAAI 2025, CCF-A</span>] Attribute-Decoupled Multi-Subspace Proxy Learning for Text-Image Person Re-identification — <span style="color:#ff0000"><i>Under Review</i></span>
+## 📝 Publications
+- [<span style="color:#1e90ff">CVPR, CCF-A</span>] Two papers — <span style="color:#ff0000"><i>Under Review</i></span>  
+- [<span style="color:#1e90ff">ICME</span>] One paper — <span style="color:#ff0000"><i>Under Review</i></span>
+
+
+
+
+
 
 # 🚀 Competitions and Achievements
 - 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
