@@ -79,8 +79,3 @@ redirect_from:
 - *2025.09 - Present*: Graduate student in Software Engineering, University of Electronic Science and Technology of China (UESTC)  
 - *2021.09 - 2025.06*: Bachelor’s degree in Artificial Intelligence, Yangzhou University
 
-# 💬 Invited Talks
-- To be updated
-
-# 💻 Internships
-- To be updated
