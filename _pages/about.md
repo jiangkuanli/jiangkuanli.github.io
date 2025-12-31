@@ -65,13 +65,15 @@ redirect_from:
 - 2022.06: Second Prize, Yangzhou University Mathematical Modeling Competition (Team of 3, Rank 1)  
 
 # 🎖 Honors and Awards
-- Outstanding Graduate(June 2025)
+- Second-Class Freshman Scholarship (Sep 2025)
+- Outstanding Graduate (June 2025)
 - National Endeavor Scholarship (2022, 2023, 2024)  
 - University “Three Good Student” (Dec 2023)  
 - Excellent Student Cadre (Dec 2024)  
 - Excellent Communist Youth League Member (May 2024)  
 - Advanced Individual in Social Practice (Mar 2024)  
 - Excellent Team in Social Practice (Oct 2024, Team of 5, Rank 3)  
+
 
 # 📖 Education
 - *2025.09 - Present*: Graduate student in Software Engineering, University of Electronic Science and Technology of China (UESTC)  
