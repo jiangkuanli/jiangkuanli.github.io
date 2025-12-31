@@ -35,11 +35,8 @@ redirect_from:
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
 ## 📝 Publications
-- [<span style="color:#1e90ff">CVPR, CCF-A</span>] Two papers — <span style="color:#ff0000"><i>Under Review</i></span>  
-- [<span style="color:#1e90ff">ICME</span>] One paper — <span style="color:#ff0000"><i>Under Review</i></span>
-
-
-
+- [<span style="color:#1e90ff">CVPR, CCF-A</span>] Two papers submitted to CVPR — <span style="color:#ff0000"><i>Under Review</i></span>  
+- [<span style="color:#1e90ff">ICME</span>] One paper submitted to CVPR — <span style="color:#ff0000"><i>Under Review</i></span>
 
 
 
