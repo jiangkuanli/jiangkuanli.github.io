@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About Me
 &emsp;&emsp;I am **Jiangkuan Li**, a first-year master's student in Software Engineering at the **University of Electronic Science and Technology of China (UESTC)**, where I was admitted through recommendation without an entrance exam. I received my Bachelor of Engineering degree in Artificial Intelligence from **Yangzhou University** in June 2025.
 
-&emsp;&emsp;My research interests focus on **🔄 transfer learning, 🖼️cross-modal retrieval and 🕵️‍♂️person re-identification**. If you are interested in my work, feel free to contact me via [email](mailto:jiangkuanli@163.com), connect with me on [GitHub](https://github.com/Re-ljk) or visit my [personal blog](https://www.leejk-magic.top/) for research updates and project insights. I am always open to collaborations and academic exchanges.
+&emsp;&emsp;My research interests focus on **🔄 transfer learning, 🖼️cross-modal retrieval ，🕵️‍♂️person re-identification** and 🤖 **Multimodal Large Models**. If you are interested in my work, feel free to contact me via [email](mailto:jiangkuanli@163.com), connect with me on [GitHub](https://github.com/Re-ljk) or visit my [personal blog](https://www.leejk-magic.top/) for research updates and project insights. I am always open to collaborations and academic exchanges.
 
 
 
@@ -41,8 +41,6 @@ redirect_from:
 ## 📜 Patents
 - A Wavelet-Enhanced Test-Time Adaptation Method for Real-World Degradation Scenarios (2/5) — <span style="color:#ff0000"><i>Patent Application Accepted</i></span>  
 - An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-identification (3/5) — <span style="color:#ff0000"><i>Patent Application Accepted</i></span>
-
-
 
 
 # 🚀 Competitions and Achievements
