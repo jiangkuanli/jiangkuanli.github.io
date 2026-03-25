@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-&emsp;&emsp;I am **Jiangkuan Li**, a first-year master's student in Software Engineering at the **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)**, where I was admitted through recommendation without an entrance exam. I received my Bachelor of Engineering degree in Artificial Intelligence from **[Yangzhou University](https://yzu.edu.cn/)** in June 2025. 
+&emsp;&emsp;I am **Jiangkuan Li**, a first-year master's student in Software Engineering at the **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)**, where I was admitted through recommendation without an entrance exam. I received my Bachelor of Engineering degree in Artificial Intelligence from **[Yangzhou University](https://www.yzu.edu.cn/)** in June 2025. 
 
 &emsp;&emsp;My research interests focus on **🔄 Transfer Learning, ♻️ Continual Learning, 🕵️‍♂️ Person Re-Identification, and 🤖 Multimodal Large Models**. If you are interested in my work, feel free to contact me via [email](mailto:jiangkuanli@163.com), connect with me on [GitHub](https://github.com/Re-ljk) or visit my [personal blog](https://www.leejk-magic.top/) for research updates and project insights. I am always open to collaborations and academic exchanges.
 
