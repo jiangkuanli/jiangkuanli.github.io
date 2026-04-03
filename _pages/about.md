@@ -33,10 +33,8 @@ redirect_from:
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
 ## 📝 Publications
-- [<span style="color:#1e90ff">ICML, CCF-A</span>]  One paper submitted to ICML2026  — <span style="color:#ff0000"><i>Under Review</i></span>
+- [<span style="color:#1e90ff">ICML, CCF-A</span>]  One paper submitted to ACM MM2026  — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">KDD, CCF-A</span>]  One paper submitted to KDD2026  — <span style="color:#ff0000"><i>Under Review</i></span>
-- [<span style="color:#1e90ff">ICME, CCF-B</span>]  One paper  submitted to ICME2026  — <span style="color:#ff0000"><i>Under Review</i></span>
-
 
 ## 📜 Patents
 - A Wavelet-Enhanced Test-Time Adaptation Method for Real-World Degradation Scenarios (2/5) — <span style="color:#ff0000"><i>Patent Application Accepted</i></span>  
