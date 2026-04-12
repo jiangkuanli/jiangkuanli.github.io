@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-&emsp;&emsp;I am **Jiangkuan Li**, a first-year master's student in Software Engineering at the **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)**, where I was admitted through recommendation without an entrance exam. I received my Bachelor of Engineering degree in Artificial Intelligence from **[Yangzhou University](https://www.yzu.edu.cn/)** in June 2025. 
+&emsp;&emsp;I am **Jiangkuan Li**, a first-year master's student in Software Engineering at the **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)**, where I was admitted through recommendation without an entrance exam. I received my Bachelor of Engineering degree in Artificial Intelligence from **[Yangzhou University(YZU)](https://www.yzu.edu.cn/)** in June 2025. 
 
 &emsp;&emsp;My research interests focus on **🔄 Transfer Learning, ♻️ Continual Learning, 🕵️‍♂️ Person Re-Identification, and 🤖 Multimodal Large Models**. If you are interested in my work, feel free to contact me via [email](mailto:jiangkuanli@163.com), connect with me on [GitHub](https://github.com/Re-ljk) or visit my [personal blog](https://www.leejk-magic.top/) for research updates and project insights. I am always open to collaborations and academic exchanges.
 
@@ -33,8 +33,10 @@ redirect_from:
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
 ## 📝 Publications
-- [<span style="color:#1e90ff">ACM MM, CCF-A</span>]  One paper submitted to ACM MM2026  — <span style="color:#ff0000"><i>Under Review</i></span>
-- [<span style="color:#1e90ff">KDD, CCF-A</span>]  One paper submitted to KDD2026  — <span style="color:#ff0000"><i>Under Review</i></span>
+- [<span style="color:#1e90ff">ACM MM, CCF-A</span>] One paper submitted to ACM MM 2026 — <span style="color:#ff0000"><i>Under Review</i></span>
+- [<span style="color:#1e90ff">TMM, CCF-A</span>] One paper submitted to TMM — <span style="color:#ff0000"><i>Under Review</i></span>
+- [<span style="color:#1e90ff">TOMM, CCF-B</span>] One paper submitted to TOMM — <span style="color:#ff0000"><i>Under Review</i></span>
+- [<span style="color:#1e90ff">Neurocomputing, SCI Q2</span>] One paper submitted to Neurocomputing — <span style="color:#ff0000"><i>Under Review</i></span>
 
 ## 📜 Patents
 - A Wavelet-Enhanced Test-Time Adaptation Method for Real-World Degradation Scenarios (2/5) — <span style="color:#ff0000"><i>Patent Application Accepted</i></span>  
