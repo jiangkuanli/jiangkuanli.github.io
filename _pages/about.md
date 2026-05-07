@@ -36,11 +36,10 @@ redirect_from:
 - [<span style="color:#1e90ff">ACM MM, CCF-A</span>] One paper submitted to ACM MM 2026 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TMM, CCF-A</span>] One paper submitted to TMM — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TOMM, CCF-B</span>] One paper submitted to TOMM — <span style="color:#ff0000"><i>Under Review</i></span>
-- [<span style="color:#1e90ff">Neurocomputing, SCI Q2</span>] One paper submitted to Neurocomputing — <span style="color:#ff0000"><i>Under Review</i></span>
 
 ## 📜 Patents
-- A Wavelet-Enhanced Test-Time Adaptation Method for Real-World Degradation Scenarios (2/5) — <span style="color:#ff0000"><i>Patent Application Accepted</i></span>  
-- An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-identification (3/5) — <span style="color:#ff0000"><i>Patent Application Accepted</i></span>
+- A Wavelet-Enhanced Test-Time Adaptation Method for Real-World Degradation Scenarios (2/5) — <span style="color:#ff0000"><i>Published, Substantive Examination Pending</i></span>  
+- An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-identification (3/5) — <span style="color:#ff0000"><i>Published, Substantive Examination Pending</i></span>
 
 # 🚀 Competitions and Achievements
 - 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
