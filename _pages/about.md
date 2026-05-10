@@ -38,8 +38,8 @@ redirect_from:
 - [<span style="color:#1e90ff">TOMM, CCF-B</span>] One paper submitted to TOMM — <span style="color:#ff0000"><i>Under Review</i></span>
 
 ## 📜 Patents
-- 一种面向真实退化场景的小波增强测试时适应方法、系统及设备（第2发明人/共5人）— <span style="color:#ff0000"><i>发明专利已公开，已进入实质审查阶段</i></span>
-- 一种属性解耦多子空间代理学习文本-图像行人重识别方法（第3发明人/共5人）— <span style="color:#ff0000"><i>发明专利已公开，已进入实质审查阶段</i></span>
+- A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios (2/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
+- An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification (3/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
 
 # 🚀 Competitions and Achievements
 - 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
