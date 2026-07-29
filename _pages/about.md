@@ -33,7 +33,7 @@ redirect_from:
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
 ## 📝 Publications
-- [<span style="color:#1e90ff">ACM MM, CCF-A</span>] One paper submitted to ACM MM 2026 — <span style="color:#ff0000"><i>Under Review</i></span>
+- [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] Three papers submitted to AAAI 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TMM, CCF-A</span>] One paper submitted to TMM — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TOMM, CCF-B</span>] One paper submitted to TOMM — <span style="color:#ff0000"><i>Under Review</i></span>
 
