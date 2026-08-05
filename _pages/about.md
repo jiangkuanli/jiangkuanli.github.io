@@ -35,7 +35,6 @@ redirect_from:
 ## 📝 Publications
 - [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] Three papers submitted to AAAI 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TMM, CCF-A</span>] One paper submitted to TMM — <span style="color:#ff0000"><i>Under Review</i></span>
-- [<span style="color:#1e90ff">TOMM, CCF-B</span>] One paper submitted to TOMM — <span style="color:#ff0000"><i>Under Review</i></span>
 
 ## 📜 Patents
 - A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios (2/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
