@@ -78,3 +78,5 @@ redirect_from:
 - *2025.09 - Present*: Graduate student in Software Engineering, University of Electronic Science and Technology of China (UESTC)  
 - *2021.09 - 2025.06*: Bachelor’s degree in Artificial Intelligence, Yangzhou University
 
+# 💼 Internship Experience
+- *2026.02 - 2026.07*: **Backend Development Engineer Intern**, [IPPLUS360](https://www.ipplus360.com/home)
