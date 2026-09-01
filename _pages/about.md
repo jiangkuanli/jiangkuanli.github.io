@@ -79,4 +79,4 @@ redirect_from:
 - *2021.09 - 2025.06*: Bachelor’s degree in Artificial Intelligence, Yangzhou University
 
 # 💻 Internships
-- *2026.02 - 2026.07*: [Evan Technology Co., Ltd.](https://www.ipplus360.com/home), Backend Development Engineer Intern
+- *2026.02 - 2026.07*: [Aiwen Technology](https://www.ipplus360.com/home), Backend Development Engineer Intern
