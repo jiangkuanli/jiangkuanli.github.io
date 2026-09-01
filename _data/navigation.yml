@@ -23,8 +23,10 @@ main:
   - title: "Education"
     url: "/#-education"
 
+  - title: "Internships" 
+    url: "/#-internships"
+
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  # - title: "Internships"
-  #   url: "/#-internships"
+
