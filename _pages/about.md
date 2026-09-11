@@ -39,6 +39,7 @@ redirect_from:
 ## 📜 Patents
 - A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios (2/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
 - An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification (3/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
+- A Parameter Memory Routing Method, System, and Electronic Device for Continual Visual Recognition (2/6 inventors) — <span style="color:#ff0000"><i>Patent application accepted</i></span>
 
 # 🚀 Competitions and Achievements
 - 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
