@@ -81,3 +81,4 @@ redirect_from:
 
 # 💻 Internships
 - *2026.02 - 2026.07*: [Aiwen Technology](https://www.ipplus360.com/home), Backend Development Engineer Intern
+- *2024.11 - 2025.02*: [Chinasoft International](https://www.chinasofti.com/), Java Backend Development Engineer Intern
