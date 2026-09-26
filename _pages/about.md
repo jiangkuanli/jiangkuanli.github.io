@@ -34,7 +34,7 @@ redirect_from:
 
 ## 📝 Publications
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Three papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
-- [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] One paper advanced to <span style="color:#ff0000"><i>Phase 2 Review</i></span>
+- [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] One paper submitted to AAAI 2027 — <span style="color:#ff0000"><i>Advanced to Phase 2</i></span>
 - [<span style="color:#1e90ff">ICASSP 2027, CCF-B</span>] One paper submitted to ICASSP 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TMM, CCF-A</span>] One paper submitted to TMM — <span style="color:#ff0000"><i>Under Review</i></span>
 
