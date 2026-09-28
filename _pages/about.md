@@ -77,11 +77,10 @@ redirect_from:
 - Advanced Individual in Social Practice (Mar 2024)  
 - Excellent Team in Social Practice (Oct 2024, Team of 5, Rank 3)  
 
-
 # 📖 Education
 - *2025.09 - Present*: Graduate student in Software Engineering, University of Electronic Science and Technology of China (UESTC)  
 - *2021.09 - 2025.06*: Bachelor’s degree in Artificial Intelligence, Yangzhou University
 
 # 💻 Internships
 - *2026.02 - 2026.07*: [Aiwen Technology](https://www.ipplus360.com/home), Backend Development Engineer Intern
-- *2024.11 - 2025.02*: [Chinasoft International](https://www.chinasofti.com/), Java Backend Development Engineer Intern
+- *2024.11 - 2025.02*: [Chinasoft International](https://www.chinasofti.com/), Backend Development Engineer Intern
