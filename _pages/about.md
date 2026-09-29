@@ -40,8 +40,8 @@ redirect_from:
 
 
 # 📜 Patents
-- A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios (2/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
-- An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification (3/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
+- A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios (2/5 inventors) — [CN121837669A](http://epub.cnipa.gov.cn/patent/CN121837669A) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
+- An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification (3/5 inventors) — [CN121600553A](http://epub.cnipa.gov.cn/patent/CN121600553A) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
 - A Parameter Memory Routing Method, System, and Electronic Device for Continual Visual Recognition (2/6 inventors) — <span style="color:#ff0000"><i>Patent application accepted</i></span>
 
 # 🚀 Competitions and Achievements
@@ -131,10 +131,4 @@ redirect_from:
     <li>Built with Python and CustomTkinter, with an interface designed for focused everyday use.</li>
   </ul>
 </div>
-</div>
-
-<div class="all-projects-link">
-  <a href="https://github.com/Re-ljk?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="View all projects on GitHub">
-    View All Projects <span aria-hidden="true">→</span>
-  </a>
 </div>
