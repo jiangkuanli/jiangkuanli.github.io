@@ -119,7 +119,7 @@ redirect_from:
 <div class="profile-timeline" aria-label="Education timeline">
   <div class="profile-timeline__item">
     <div class="profile-timeline__date">2025.09 – Present</div>
-    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><i class="fas fa-graduation-cap"></i></div>
+    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><img src="/images/institutions/uestc.webp" alt="" loading="lazy" decoding="async"></div>
     <div class="profile-timeline__content">
       <a class="profile-timeline__organization" href="https://www.uestc.edu.cn" target="_blank" rel="noopener noreferrer">University of Electronic Science and Technology of China (UESTC)</a>
       <p>Master’s Student · Software Engineering</p>
@@ -128,7 +128,7 @@ redirect_from:
 
   <div class="profile-timeline__item">
     <div class="profile-timeline__date">2021.09 – 2025.06</div>
-    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><i class="fas fa-university"></i></div>
+    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><img src="/images/institutions/yzu.png" alt="" loading="lazy" decoding="async"></div>
     <div class="profile-timeline__content">
       <a class="profile-timeline__organization" href="https://www.yzu.edu.cn" target="_blank" rel="noopener noreferrer">Yangzhou University (YZU)</a>
       <p>Bachelor of Engineering · Artificial Intelligence</p>
