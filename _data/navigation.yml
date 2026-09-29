@@ -20,14 +20,14 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "Selected Projects"
+    url: "/#-featured-projects"
+
   - title: "Education"
     url: "/#-education"
 
-  - title: "Internships" 
+  - title: "Internships"
     url: "/#-internships"
-
-  - title: "Projects"
-    url: "/#-featured-projects"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
