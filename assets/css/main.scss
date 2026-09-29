@@ -109,19 +109,14 @@ h1:before, .anchor:before {
 }
 
 /* Featured projects */
-.projects-intro {
-    max-width: 46rem;
-    margin: -.35rem 0 1.4rem;
-    color: #64748b;
-    font-size: .92em;
-    line-height: 1.75;
-}
-
 .project-grid {
     display: grid;
+    box-sizing: border-box;
+    width: 100%;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1.15rem;
     margin: 0 0 2.4rem;
+    padding: 0;
 }
 
 .project-card {

@@ -88,12 +88,10 @@ redirect_from:
 <span class='anchor' id='featured-projects'></span>
 # 🚀 Featured Projects
 
-<p class="projects-intro">A selection of projects where I explore deep learning, intelligent applications, and practical software engineering.</p>
-
 <div class="project-grid">
   <article class="project-card project-card--deep-learning">
     <a class="project-card__media" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer" aria-label="View Deep Learning Experiments on GitHub">
-      <img src="/images/projects/deep-learning.png" alt="3D deep learning experiment visualization" loading="lazy" decoding="async">
+      <img src="/images/projects/deep-learning.png" alt="Neural network learning from data and extracting visual features" loading="lazy" decoding="async">
       <span class="project-card__number">01</span>
     </a>
     <div class="project-card__body">
