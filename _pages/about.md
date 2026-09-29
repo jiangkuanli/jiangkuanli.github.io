@@ -86,7 +86,7 @@ redirect_from:
 - *2024.11 - 2025.02*: [Chinasoft International](https://www.chinasofti.com/), Backend Development Engineer Intern
 
 <span class='anchor' id='featured-projects'></span>
-# 🚀 Featured Projects
+# 🚀 Selected Projects
 
 <div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Research Collection</div><a class="project-image-link" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer" aria-label="View Deep Learning Experiments on GitHub"><img src="/images/projects/deep-learning.png" alt="Deep Learning Experiments" width="100%" loading="lazy" decoding="async"></a></div>
 <div class="paper-box-text">
@@ -131,4 +131,10 @@ redirect_from:
     <li>Built with Python and CustomTkinter, with an interface designed for focused everyday use.</li>
   </ul>
 </div>
+</div>
+
+<div class="all-projects-link">
+  <a href="https://github.com/Re-ljk?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="View all projects on GitHub">
+    View All Projects <span aria-hidden="true">→</span>
+  </a>
 </div>
