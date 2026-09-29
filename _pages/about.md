@@ -41,43 +41,45 @@ redirect_from:
 
 # 📜 Patents
 <ul class="patent-list">
-  <li class="patent-item">
-    <div class="patent-item__heading">
-      <span class="patent-item__type">Published Patent</span>
-      <span class="patent-item__status">Substantive Examination</span>
-    </div>
-    <p class="patent-item__title">A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios</p>
-    <div class="patent-item__meta">
-      <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/5 inventors</span>
-      <a href="http://epub.cnipa.gov.cn/patent/CN121837669A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN121837669A on CNIPA">
-        CN121837669A <i class="fas fa-external-link-alt" aria-hidden="true"></i>
-      </a>
-    </div>
+  <li class="patent-item patent-item--linked">
+    <a class="patent-item__link" href="http://epub.cnipa.gov.cn/patent/CN121837669A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN121837669A on CNIPA">
+      <div class="patent-item__heading">
+        <span class="patent-item__type">Published Patent</span>
+        <span class="patent-item__status">Substantive Examination</span>
+      </div>
+      <p class="patent-item__title">A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios</p>
+      <div class="patent-item__meta">
+        <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/5 inventors</span>
+        <span class="patent-item__number">CN121837669A <i class="fas fa-external-link-alt" aria-hidden="true"></i></span>
+      </div>
+    </a>
+  </li>
+
+  <li class="patent-item patent-item--linked">
+    <a class="patent-item__link" href="http://epub.cnipa.gov.cn/patent/CN121600553A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN121600553A on CNIPA">
+      <div class="patent-item__heading">
+        <span class="patent-item__type">Published Patent</span>
+        <span class="patent-item__status">Substantive Examination</span>
+      </div>
+      <p class="patent-item__title">An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification</p>
+      <div class="patent-item__meta">
+        <span><i class="fas fa-user-friends" aria-hidden="true"></i> 3/5 inventors</span>
+        <span class="patent-item__number">CN121600553A <i class="fas fa-external-link-alt" aria-hidden="true"></i></span>
+      </div>
+    </a>
   </li>
 
   <li class="patent-item">
-    <div class="patent-item__heading">
-      <span class="patent-item__type">Published Patent</span>
-      <span class="patent-item__status">Substantive Examination</span>
-    </div>
-    <p class="patent-item__title">An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification</p>
-    <div class="patent-item__meta">
-      <span><i class="fas fa-user-friends" aria-hidden="true"></i> 3/5 inventors</span>
-      <a href="http://epub.cnipa.gov.cn/patent/CN121600553A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN121600553A on CNIPA">
-        CN121600553A <i class="fas fa-external-link-alt" aria-hidden="true"></i>
-      </a>
-    </div>
-  </li>
-
-  <li class="patent-item">
-    <div class="patent-item__heading">
-      <span class="patent-item__type">Patent Application</span>
-      <span class="patent-item__status patent-item__status--pending">Application Accepted</span>
-    </div>
-    <p class="patent-item__title">A Parameter Memory Routing Method, System, and Electronic Device for Continual Visual Recognition</p>
-    <div class="patent-item__meta">
-      <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/6 inventors</span>
-      <span class="patent-item__note">Awaiting publication</span>
+    <div class="patent-item__content">
+      <div class="patent-item__heading">
+        <span class="patent-item__type">Patent Application</span>
+        <span class="patent-item__status patent-item__status--pending">Application Accepted</span>
+      </div>
+      <p class="patent-item__title">A Parameter Memory Routing Method, System, and Electronic Device for Continual Visual Recognition</p>
+      <div class="patent-item__meta">
+        <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/6 inventors</span>
+        <span class="patent-item__note">Awaiting publication</span>
+      </div>
     </div>
   </li>
 </ul>
