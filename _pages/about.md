@@ -82,7 +82,7 @@ redirect_from:
   </li>
 </ul>
 
-# 🚀 Competitions and Achievements
+# 🏆 Competitions and Achievements
 - 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
 - 2024.07: National Third Prize, ReCon Robot Developer Competition (Team of 2, Rank 1)  
 - 2024.07: Jiangsu First Prize, ReCon Robot Developer Competition (Team of 2, Rank 1)  
@@ -106,22 +106,56 @@ redirect_from:
 - 2022.06: Second Prize, Yangzhou University Mathematical Modeling Competition (Team of 3, Rank 1)  
 
 # 🎖 Honors and Awards
-- Second-Class Freshman Scholarship (Sep 2025)
-- Outstanding Graduate (June 2025)
-- National Endeavor Scholarship (2022, 2023, 2024)  
-- University “Three Good Student” (Dec 2023)  
-- Excellent Student Cadre (Dec 2024)  
-- Excellent Communist Youth League Member (May 2024)  
-- Advanced Individual in Social Practice (Mar 2024)  
-- Excellent Team in Social Practice (Oct 2024, Team of 5, Rank 3)  
+- 2025.09: Second-Class Freshman Scholarship
+- 2025.06: Outstanding Graduate
+- 2024.12: Excellent Student Cadre
+- 2024.10: Excellent Team in Social Practice (Team of 5, Rank 3)
+- 2024.05: Excellent Communist Youth League Member
+- 2024.03: Advanced Individual in Social Practice
+- 2023.12: University “Three Good Student”
+- 2022–2024: National Endeavor Scholarship
 
 # 📖 Education
-- *2025.09 - Present*: Graduate student in Software Engineering, University of Electronic Science and Technology of China (UESTC)  
-- *2021.09 - 2025.06*: Bachelor’s degree in Artificial Intelligence, Yangzhou University
+<div class="profile-timeline" aria-label="Education timeline">
+  <div class="profile-timeline__item">
+    <div class="profile-timeline__date">2025.09 – Present</div>
+    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><i class="fas fa-graduation-cap"></i></div>
+    <div class="profile-timeline__content">
+      <a class="profile-timeline__organization" href="https://www.uestc.edu.cn" target="_blank" rel="noopener noreferrer">University of Electronic Science and Technology of China (UESTC)</a>
+      <p>Master’s Student · Software Engineering</p>
+    </div>
+  </div>
+
+  <div class="profile-timeline__item">
+    <div class="profile-timeline__date">2021.09 – 2025.06</div>
+    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><i class="fas fa-university"></i></div>
+    <div class="profile-timeline__content">
+      <a class="profile-timeline__organization" href="https://www.yzu.edu.cn" target="_blank" rel="noopener noreferrer">Yangzhou University (YZU)</a>
+      <p>Bachelor of Engineering · Artificial Intelligence</p>
+    </div>
+  </div>
+</div>
 
 # 💻 Internships
-- *2026.02 - 2026.07*: [Aiwen Technology](https://www.ipplus360.com/home), Backend Development Engineer Intern
-- *2024.11 - 2025.02*: [Chinasoft International](https://www.chinasofti.com/), Backend Development Engineer Intern
+<div class="profile-timeline" aria-label="Internship timeline">
+  <div class="profile-timeline__item">
+    <div class="profile-timeline__date">2026.02 – 2026.07</div>
+    <div class="profile-timeline__marker profile-timeline__marker--internship" aria-hidden="true"><i class="fas fa-briefcase"></i></div>
+    <div class="profile-timeline__content">
+      <a class="profile-timeline__organization" href="https://www.ipplus360.com/home" target="_blank" rel="noopener noreferrer">Aiwen Technology</a>
+      <p>Backend Development Engineer Intern</p>
+    </div>
+  </div>
+
+  <div class="profile-timeline__item">
+    <div class="profile-timeline__date">2024.11 – 2025.02</div>
+    <div class="profile-timeline__marker profile-timeline__marker--internship" aria-hidden="true"><i class="fas fa-briefcase"></i></div>
+    <div class="profile-timeline__content">
+      <a class="profile-timeline__organization" href="https://www.chinasofti.com/" target="_blank" rel="noopener noreferrer">Chinasoft International</a>
+      <p>Backend Development Engineer Intern</p>
+    </div>
+  </div>
+</div>
 
 <span class='anchor' id='featured-projects'></span>
 # 🚀 Selected Projects

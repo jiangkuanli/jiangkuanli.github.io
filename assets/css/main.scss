@@ -40,6 +40,31 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.page__content {
+    > p,
+    > ul,
+    > .patent-list,
+    > .profile-timeline,
+    > .paper-box {
+        font-size: 1em;
+        line-height: 1.6;
+    }
+
+    > h1 {
+        margin-top: 1.35em;
+        margin-bottom: .55em;
+    }
+
+    > ul:not(.patent-list) {
+        margin-top: .4em;
+        margin-bottom: 1em;
+
+        > li {
+            margin-bottom: .24em;
+        }
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -101,8 +126,8 @@
             transform-origin: center;
         }
 
-        &:hover img,
-        &:focus-within img {
+        .project-image-link:hover img,
+        .project-image-link:focus-visible img {
             transform: translateY(-3px) scale(1.025);
             box-shadow: 5px 8px 18px rgba(0, 0, 0, .22);
             filter: saturate(1.05);
@@ -131,7 +156,7 @@
         .project-summary {
             margin: 0 0 .4em;
             color: #494e52;
-            line-height: 1.55;
+            line-height: 1.6;
         }
 
         ul {
@@ -154,12 +179,6 @@
 .patent-item {
     padding: .78rem .15rem .72rem;
     border-bottom: 1px solid #efefef;
-    transition: background-color .2s ease;
-
-    &:hover,
-    &:focus-within {
-        background-color: #f8fbff;
-    }
 }
 
 .patent-item__heading,
@@ -191,7 +210,7 @@
     color: #2f3439;
     font-size: 1em;
     font-weight: 600;
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
 .patent-item__meta {
@@ -219,11 +238,118 @@
     font-style: italic;
 }
 
+.profile-timeline {
+    margin: .35rem 0 1rem;
+}
+
+.profile-timeline__item {
+    display: grid;
+    grid-template-columns: 8.2rem 2rem minmax(0, 1fr);
+    align-items: start;
+    position: relative;
+    min-height: 4.3rem;
+    padding: .45rem 0 .65rem;
+
+    &:not(:last-child)::after {
+        content: "";
+        position: absolute;
+        top: 2.15rem;
+        bottom: -.45rem;
+        left: 9.025rem;
+        width: 1px;
+        background: #d9e2ec;
+    }
+}
+
+.profile-timeline__date {
+    padding-top: .18rem;
+    color: #59636e;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+.profile-timeline__marker {
+    display: inline-flex;
+    z-index: 1;
+    align-items: center;
+    justify-content: center;
+    width: 1.65rem;
+    height: 1.65rem;
+    border-radius: 50%;
+    color: #fff;
+    font-size: .72rem;
+    box-shadow: 0 0 0 4px #fff;
+}
+
+.profile-timeline__marker--education {
+    background: #185abd;
+}
+
+.profile-timeline__marker--internship {
+    background: #477b65;
+}
+
+.profile-timeline__content {
+    padding-left: .35rem;
+
+    p {
+        margin: .18rem 0 0;
+        color: #59636e;
+        line-height: 1.6;
+    }
+}
+
+.profile-timeline__organization {
+    color: #2f3439;
+    font-weight: 600;
+    line-height: 1.45;
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+        color: #185abd;
+        text-decoration: underline;
+        text-underline-offset: .16em;
+    }
+}
+
 @media (max-width: 520px) {
     .patent-item__heading,
     .patent-item__meta {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    .profile-timeline__item {
+        grid-template-columns: 1.8rem minmax(0, 1fr);
+        min-height: 4.8rem;
+        padding-bottom: .8rem;
+
+        &:not(:last-child)::after {
+            top: 2rem;
+            bottom: -.35rem;
+            left: .8rem;
+        }
+    }
+
+    .profile-timeline__date {
+        grid-column: 2;
+        grid-row: 1;
+        padding-top: 0;
+        font-size: .92em;
+    }
+
+    .profile-timeline__marker {
+        grid-column: 1;
+        grid-row: 1 / span 2;
+        width: 1.6rem;
+        height: 1.6rem;
+    }
+
+    .profile-timeline__content {
+        grid-column: 2;
+        grid-row: 2;
+        padding-left: 0;
     }
 }
 
