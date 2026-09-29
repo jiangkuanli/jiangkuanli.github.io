@@ -88,38 +88,47 @@ redirect_from:
 <span class='anchor' id='featured-projects'></span>
 # 🚀 Featured Projects
 
-<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Research Collection</div><img src="/images/projects/deep-learning.png" alt="Deep Learning Experiments" width="100%" loading="lazy" decoding="async"></div>
+<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Research Collection</div><a class="project-image-link" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer" aria-label="View Deep Learning Experiments on GitHub"><img src="/images/projects/deep-learning.png" alt="Deep Learning Experiments" width="100%" loading="lazy" decoding="async"></a></div>
 <div class="paper-box-text">
 
-  <p><a href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer">Deep Learning Experiments</a> | <strong>Deep Learning</strong> | <a href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/deep-learning-experiments/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/deep-learning-experiments?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
+  <p class="project-title-line"><a class="project-name" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer">Deep Learning Experiments</a> | <strong>Deep Learning</strong> | <a href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/deep-learning-experiments/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/deep-learning-experiments?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
+
+  <p class="project-summary">A hands-on collection that turns core deep-learning ideas into reproducible, end-to-end experiments.</p>
 
   <ul>
     <li>Five reproducible experiments covering vision, NLP, 3D point clouds, and efficient LLM adaptation.</li>
     <li>Includes semantic segmentation, super-resolution, sentiment analysis, quantization, and LoRA workflows.</li>
+    <li>Organized for learning and extension with clear training, evaluation, and implementation pipelines.</li>
   </ul>
 </div>
 </div>
 
-<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Full-stack AI Platform</div><img src="/images/projects/ai-chat.png" alt="AI Chat conversation interface" width="100%" loading="lazy" decoding="async"></div>
+<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Full-stack AI Platform</div><a class="project-image-link" href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer" aria-label="View AI Chat on GitHub"><img src="/images/projects/ai-chat.png" alt="AI Chat conversation interface" width="100%" loading="lazy" decoding="async"></a></div>
 <div class="paper-box-text">
 
-  <p><a href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer">AI Chat</a> | <strong>Intelligent Application</strong> | <a href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/AI-chat/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/AI-chat?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
+  <p class="project-title-line"><a class="project-name" href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer">AI Chat</a> | <strong>Intelligent Application</strong> | <a href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/AI-chat/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/AI-chat?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
+
+  <p class="project-summary">An intelligent workspace for natural conversations and extracting useful knowledge from everyday documents.</p>
 
   <ul>
     <li>A full-stack conversational AI platform with streaming responses and persistent multi-turn sessions.</li>
     <li>Integrates DeepSeek, LangChain, and intelligent parsing for PDF, Word, and Excel documents.</li>
+    <li>Uses a modular FastAPI and React architecture with structured file storage and extensible AI services.</li>
   </ul>
 </div>
 </div>
 
-<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Desktop Productivity</div><img src="/images/projects/my-todo-app.png" alt="MyTodoApp desktop interface" width="100%" loading="lazy" decoding="async"></div>
+<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Desktop Productivity</div><a class="project-image-link" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer" aria-label="View MyTodoApp on GitHub"><img src="/images/projects/my-todo-app.png" alt="MyTodoApp desktop interface" width="100%" loading="lazy" decoding="async"></a></div>
 <div class="paper-box-text">
 
-  <p><a href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer">MyTodoApp</a> | <strong>Desktop Application</strong> | <a href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/MyTodoApp/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/MyTodoApp?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
+  <p class="project-title-line"><a class="project-name" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer">MyTodoApp</a> | <strong>Desktop Application</strong> | <a href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/MyTodoApp/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/MyTodoApp?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
+
+  <p class="project-summary">A lightweight Windows productivity companion built for fast capture, clear priorities, and reliable reminders.</p>
 
   <ul>
     <li>A polished Windows task manager with precise scheduling, reminders, and smart priority sorting.</li>
     <li>Supports system-tray operation and launch-at-startup for a lightweight daily workflow.</li>
+    <li>Built with Python and CustomTkinter, with an interface designed for focused everyday use.</li>
   </ul>
 </div>
 </div>
