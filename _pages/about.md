@@ -40,8 +40,8 @@ redirect_from:
 
 
 # 📜 Patents
-<div class="patent-list">
-  <article class="patent-item">
+<ul class="patent-list">
+  <li class="patent-item">
     <div class="patent-item__heading">
       <span class="patent-item__type">Published Patent</span>
       <span class="patent-item__status">Substantive Examination</span>
@@ -53,9 +53,9 @@ redirect_from:
         CN121837669A <i class="fas fa-external-link-alt" aria-hidden="true"></i>
       </a>
     </div>
-  </article>
+  </li>
 
-  <article class="patent-item">
+  <li class="patent-item">
     <div class="patent-item__heading">
       <span class="patent-item__type">Published Patent</span>
       <span class="patent-item__status">Substantive Examination</span>
@@ -67,9 +67,9 @@ redirect_from:
         CN121600553A <i class="fas fa-external-link-alt" aria-hidden="true"></i>
       </a>
     </div>
-  </article>
+  </li>
 
-  <article class="patent-item">
+  <li class="patent-item">
     <div class="patent-item__heading">
       <span class="patent-item__type">Patent Application</span>
       <span class="patent-item__status patent-item__status--pending">Application Accepted</span>
@@ -79,8 +79,8 @@ redirect_from:
       <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/6 inventors</span>
       <span class="patent-item__note">Awaiting publication</span>
     </div>
-  </article>
-</div>
+  </li>
+</ul>
 
 # 🚀 Competitions and Achievements
 - 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
