@@ -88,58 +88,76 @@ redirect_from:
 <span class='anchor' id='featured-projects'></span>
 # 🚀 Featured Projects
 
-<div class="project-grid">
-  <article class="project-card project-card--deep-learning">
-    <a class="project-card__media" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer" aria-label="View Deep Learning Experiments on GitHub">
+<div class="project-list">
+  <article class="project-entry project-entry--deep-learning">
+    <a class="project-entry__media" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer" aria-label="View Deep Learning Experiments on GitHub">
       <img src="/images/projects/deep-learning.png" alt="Neural network learning from data and extracting visual features" loading="lazy" decoding="async">
-      <span class="project-card__number">01</span>
+      <span class="project-entry__badge">Research Collection</span>
     </a>
-    <div class="project-card__body">
-      <div class="project-card__eyebrow">Research Collection</div>
-      <h2>Deep Learning Experiments</h2>
-      <p>Five reproducible experiments spanning semantic segmentation, 3D point-cloud learning, image super-resolution, sentiment analysis, and LLM quantization with LoRA.</p>
-      <div class="project-card__tags" aria-label="Technologies">
+    <div class="project-entry__content">
+      <h2><a href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer">Deep Learning Experiments</a></h2>
+      <div class="project-entry__meta">
+        <span>Deep Learning</span>
+        <a href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+        <a class="project-entry__stars" href="https://github.com/Re-ljk/deep-learning-experiments/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View repository stars">
+          <img src="https://img.shields.io/github/stars/Re-ljk/deep-learning-experiments?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy">
+        </a>
+      </div>
+      <ul class="project-entry__highlights">
+        <li>Five reproducible experiments covering vision, NLP, 3D point clouds, and efficient LLM adaptation.</li>
+        <li>Includes semantic segmentation, super-resolution, sentiment analysis, quantization, and LoRA workflows.</li>
+      </ul>
+      <div class="project-entry__tags" aria-label="Technologies">
         <span>PyTorch</span><span>TensorFlow</span><span>Jupyter</span><span>LoRA</span>
       </div>
-      <a class="project-card__link" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer">
-        <i class="fab fa-github" aria-hidden="true"></i> Explore repository <span aria-hidden="true">→</span>
-      </a>
     </div>
   </article>
 
-  <article class="project-card project-card--ai-chat">
-    <a class="project-card__media" href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer" aria-label="View AI Chat on GitHub">
+  <article class="project-entry project-entry--ai-chat">
+    <a class="project-entry__media" href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer" aria-label="View AI Chat on GitHub">
       <img src="/images/projects/ai-chat.png" alt="AI Chat conversation interface" loading="lazy" decoding="async">
-      <span class="project-card__number">02</span>
+      <span class="project-entry__badge">Full-stack AI Platform</span>
     </a>
-    <div class="project-card__body">
-      <div class="project-card__eyebrow">Full-stack AI Platform</div>
-      <h2>AI Chat</h2>
-      <p>A full-stack conversational AI and document intelligence platform with streaming responses, multi-turn sessions, DeepSeek, LangChain, and PDF, Word, and Excel parsing.</p>
-      <div class="project-card__tags" aria-label="Technologies">
+    <div class="project-entry__content">
+      <h2><a href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer">AI Chat</a></h2>
+      <div class="project-entry__meta">
+        <span>Intelligent Application</span>
+        <a href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+        <a class="project-entry__stars" href="https://github.com/Re-ljk/AI-chat/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View repository stars">
+          <img src="https://img.shields.io/github/stars/Re-ljk/AI-chat?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy">
+        </a>
+      </div>
+      <ul class="project-entry__highlights">
+        <li>A full-stack conversational AI platform with streaming responses and persistent multi-turn sessions.</li>
+        <li>Integrates DeepSeek, LangChain, and intelligent parsing for PDF, Word, and Excel documents.</li>
+      </ul>
+      <div class="project-entry__tags" aria-label="Technologies">
         <span>FastAPI</span><span>React</span><span>LangChain</span><span>MinIO</span>
       </div>
-      <a class="project-card__link" href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer">
-        <i class="fab fa-github" aria-hidden="true"></i> Explore repository <span aria-hidden="true">→</span>
-      </a>
     </div>
   </article>
 
-  <article class="project-card project-card--todo">
-    <a class="project-card__media" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer" aria-label="View MyTodoApp on GitHub">
+  <article class="project-entry project-entry--todo">
+    <a class="project-entry__media" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer" aria-label="View MyTodoApp on GitHub">
       <img src="/images/projects/my-todo-app.png" alt="MyTodoApp desktop interface" loading="lazy" decoding="async">
-      <span class="project-card__number">03</span>
+      <span class="project-entry__badge">Desktop Productivity</span>
     </a>
-    <div class="project-card__body">
-      <div class="project-card__eyebrow">Desktop Productivity</div>
-      <h2>MyTodoApp</h2>
-      <p>A polished Windows task manager featuring precise scheduling, smart priority sorting, reminder notifications, system-tray operation, and launch-at-startup support.</p>
-      <div class="project-card__tags" aria-label="Technologies">
+    <div class="project-entry__content">
+      <h2><a href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer">MyTodoApp</a></h2>
+      <div class="project-entry__meta">
+        <span>Desktop Application</span>
+        <a href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+        <a class="project-entry__stars" href="https://github.com/Re-ljk/MyTodoApp/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View repository stars">
+          <img src="https://img.shields.io/github/stars/Re-ljk/MyTodoApp?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy">
+        </a>
+      </div>
+      <ul class="project-entry__highlights">
+        <li>A polished Windows task manager with precise scheduling, reminders, and smart priority sorting.</li>
+        <li>Supports system-tray operation and launch-at-startup for a lightweight daily workflow.</li>
+      </ul>
+      <div class="project-entry__tags" aria-label="Technologies">
         <span>Python</span><span>CustomTkinter</span><span>Windows</span><span>Desktop UI</span>
       </div>
-      <a class="project-card__link" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer">
-        <i class="fab fa-github" aria-hidden="true"></i> Explore repository <span aria-hidden="true">→</span>
-      </a>
     </div>
   </article>
 </div>
