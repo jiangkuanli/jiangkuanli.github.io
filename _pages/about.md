@@ -84,3 +84,64 @@ redirect_from:
 # 💻 Internships
 - *2026.02 - 2026.07*: [Aiwen Technology](https://www.ipplus360.com/home), Backend Development Engineer Intern
 - *2024.11 - 2025.02*: [Chinasoft International](https://www.chinasofti.com/), Backend Development Engineer Intern
+
+<span class='anchor' id='featured-projects'></span>
+# 🚀 Featured Projects
+
+<p class="projects-intro">A selection of projects where I explore deep learning, intelligent applications, and practical software engineering.</p>
+
+<div class="project-grid">
+  <article class="project-card project-card--deep-learning">
+    <a class="project-card__media" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer" aria-label="View Deep Learning Experiments on GitHub">
+      <img src="/images/projects/deep-learning.png" alt="3D deep learning experiment visualization" loading="lazy" decoding="async">
+      <span class="project-card__number">01</span>
+    </a>
+    <div class="project-card__body">
+      <div class="project-card__eyebrow">Research Collection</div>
+      <h2>Deep Learning Experiments</h2>
+      <p>Five reproducible experiments spanning semantic segmentation, 3D point-cloud learning, image super-resolution, sentiment analysis, and LLM quantization with LoRA.</p>
+      <div class="project-card__tags" aria-label="Technologies">
+        <span>PyTorch</span><span>TensorFlow</span><span>Jupyter</span><span>LoRA</span>
+      </div>
+      <a class="project-card__link" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-github" aria-hidden="true"></i> Explore repository <span aria-hidden="true">→</span>
+      </a>
+    </div>
+  </article>
+
+  <article class="project-card project-card--ai-chat">
+    <a class="project-card__media" href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer" aria-label="View AI Chat on GitHub">
+      <img src="/images/projects/ai-chat.png" alt="AI Chat conversation interface" loading="lazy" decoding="async">
+      <span class="project-card__number">02</span>
+    </a>
+    <div class="project-card__body">
+      <div class="project-card__eyebrow">Full-stack AI Platform</div>
+      <h2>AI Chat</h2>
+      <p>A full-stack conversational AI and document intelligence platform with streaming responses, multi-turn sessions, DeepSeek, LangChain, and PDF, Word, and Excel parsing.</p>
+      <div class="project-card__tags" aria-label="Technologies">
+        <span>FastAPI</span><span>React</span><span>LangChain</span><span>MinIO</span>
+      </div>
+      <a class="project-card__link" href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-github" aria-hidden="true"></i> Explore repository <span aria-hidden="true">→</span>
+      </a>
+    </div>
+  </article>
+
+  <article class="project-card project-card--todo">
+    <a class="project-card__media" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer" aria-label="View MyTodoApp on GitHub">
+      <img src="/images/projects/my-todo-app.png" alt="MyTodoApp desktop interface" loading="lazy" decoding="async">
+      <span class="project-card__number">03</span>
+    </a>
+    <div class="project-card__body">
+      <div class="project-card__eyebrow">Desktop Productivity</div>
+      <h2>MyTodoApp</h2>
+      <p>A polished Windows task manager featuring precise scheduling, smart priority sorting, reminder notifications, system-tray operation, and launch-at-startup support.</p>
+      <div class="project-card__tags" aria-label="Technologies">
+        <span>Python</span><span>CustomTkinter</span><span>Windows</span><span>Desktop UI</span>
+      </div>
+      <a class="project-card__link" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-github" aria-hidden="true"></i> Explore repository <span aria-hidden="true">→</span>
+      </a>
+    </div>
+  </article>
+</div>
