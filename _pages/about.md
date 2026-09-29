@@ -88,7 +88,7 @@ redirect_from:
 <span class='anchor' id='featured-projects'></span>
 # 🚀 Featured Projects
 
-<div class="paper-box"><div class="paper-box-image"><div class="badge">Research Collection</div><img src="/images/projects/deep-learning.png" alt="Deep Learning Experiments" width="100%" loading="lazy" decoding="async"></div>
+<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Research Collection</div><img src="/images/projects/deep-learning.png" alt="Deep Learning Experiments" width="100%" loading="lazy" decoding="async"></div>
 <div class="paper-box-text">
 
   <p><a href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer">Deep Learning Experiments</a> | <strong>Deep Learning</strong> | <a href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/deep-learning-experiments/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/deep-learning-experiments?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
@@ -100,7 +100,7 @@ redirect_from:
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div class="badge">Full-stack AI Platform</div><img src="/images/projects/ai-chat.png" alt="AI Chat conversation interface" width="100%" loading="lazy" decoding="async"></div>
+<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Full-stack AI Platform</div><img src="/images/projects/ai-chat.png" alt="AI Chat conversation interface" width="100%" loading="lazy" decoding="async"></div>
 <div class="paper-box-text">
 
   <p><a href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer">AI Chat</a> | <strong>Intelligent Application</strong> | <a href="https://github.com/Re-ljk/AI-chat" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/AI-chat/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/AI-chat?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
@@ -112,7 +112,7 @@ redirect_from:
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div class="badge">Desktop Productivity</div><img src="/images/projects/my-todo-app.png" alt="MyTodoApp desktop interface" width="100%" loading="lazy" decoding="async"></div>
+<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Desktop Productivity</div><img src="/images/projects/my-todo-app.png" alt="MyTodoApp desktop interface" width="100%" loading="lazy" decoding="async"></div>
 <div class="paper-box-text">
 
   <p><a href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer">MyTodoApp</a> | <strong>Desktop Application</strong> | <a href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/MyTodoApp/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/MyTodoApp?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>

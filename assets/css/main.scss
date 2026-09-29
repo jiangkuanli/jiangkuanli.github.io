@@ -87,6 +87,23 @@
 
 }
 
+.project-paper-box {
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    .paper-box-text {
+        > p:first-child {
+            margin-top: 0;
+            margin-bottom: .5em;
+        }
+
+        ul {
+            margin-top: .35em;
+            margin-bottom: 0;
+        }
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
