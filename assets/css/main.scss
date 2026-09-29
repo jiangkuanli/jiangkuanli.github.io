@@ -172,20 +172,17 @@
 
 .patent-item__type {
     color: #185abd;
-    font-size: .86em;
+    font-size: 1em;
     font-weight: 700;
     letter-spacing: .045em;
     text-transform: uppercase;
 }
 
 .patent-item__status {
-    padding: .16rem .45rem;
-    border: 1px solid #efb4b4;
-    border-radius: 999px;
-    color: #c62828;
-    background: #fff4f4;
-    font-size: .82em;
-    font-weight: 600;
+    color: #ff0000;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: 400;
     white-space: nowrap;
 }
 
@@ -199,7 +196,7 @@
 
 .patent-item__meta {
     color: #677487;
-    font-size: .86em;
+    font-size: 1em;
 
     a {
         font-weight: 700;
