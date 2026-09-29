@@ -41,32 +41,32 @@ redirect_from:
 
 # 📜 Patents
 <ul class="patent-list">
-  <li class="patent-item">
-    <div class="patent-item__heading">
-      <span class="patent-item__type">Published Patent</span>
-      <span class="patent-item__status">Substantive Examination</span>
-    </div>
-    <p class="patent-item__title">A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios</p>
-    <div class="patent-item__meta">
-      <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/5 inventors</span>
-      <a href="http://epub.cnipa.gov.cn/patent/CN121837669A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN121837669A on CNIPA">
-        CN121837669A <i class="fas fa-external-link-alt" aria-hidden="true"></i>
-      </a>
-    </div>
+  <li class="patent-item patent-item--linked">
+    <a class="patent-item__link" href="http://epub.cnipa.gov.cn/patent/CN121837669A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN121837669A on CNIPA">
+      <div class="patent-item__heading">
+        <span class="patent-item__type">Published Patent</span>
+        <span class="patent-item__status">Substantive Examination</span>
+      </div>
+      <p class="patent-item__title">A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios</p>
+      <div class="patent-item__meta">
+        <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/5 inventors</span>
+        <span class="patent-item__number">CN121837669A <i class="fas fa-external-link-alt" aria-hidden="true"></i></span>
+      </div>
+    </a>
   </li>
 
-  <li class="patent-item">
-    <div class="patent-item__heading">
-      <span class="patent-item__type">Published Patent</span>
-      <span class="patent-item__status">Substantive Examination</span>
-    </div>
-    <p class="patent-item__title">An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification</p>
-    <div class="patent-item__meta">
-      <span><i class="fas fa-user-friends" aria-hidden="true"></i> 3/5 inventors</span>
-      <a href="http://epub.cnipa.gov.cn/patent/CN121600553A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN121600553A on CNIPA">
-        CN121600553A <i class="fas fa-external-link-alt" aria-hidden="true"></i>
-      </a>
-    </div>
+  <li class="patent-item patent-item--linked">
+    <a class="patent-item__link" href="http://epub.cnipa.gov.cn/patent/CN121600553A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN121600553A on CNIPA">
+      <div class="patent-item__heading">
+        <span class="patent-item__type">Published Patent</span>
+        <span class="patent-item__status">Substantive Examination</span>
+      </div>
+      <p class="patent-item__title">An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification</p>
+      <div class="patent-item__meta">
+        <span><i class="fas fa-user-friends" aria-hidden="true"></i> 3/5 inventors</span>
+        <span class="patent-item__number">CN121600553A <i class="fas fa-external-link-alt" aria-hidden="true"></i></span>
+      </div>
+    </a>
   </li>
 
   <li class="patent-item">
@@ -115,6 +115,48 @@ redirect_from:
 - 2023.12: University “Three Good Student”
 - 2022–2024: National Endeavor Scholarship
 
+# 📖 Education
+<div class="profile-timeline" aria-label="Education timeline">
+  <div class="profile-timeline__item">
+    <div class="profile-timeline__date">2025.09 – Present</div>
+    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><img src="/images/institutions/uestc.webp" alt="" loading="lazy" decoding="async"></div>
+    <div class="profile-timeline__content">
+      <a class="profile-timeline__organization" href="https://www.uestc.edu.cn" target="_blank" rel="noopener noreferrer">University of Electronic Science and Technology of China (UESTC)</a>
+      <p>Master’s Student · Software Engineering</p>
+    </div>
+  </div>
+
+  <div class="profile-timeline__item">
+    <div class="profile-timeline__date">2021.09 – 2025.06</div>
+    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><img src="/images/institutions/yzu.png" alt="" loading="lazy" decoding="async"></div>
+    <div class="profile-timeline__content">
+      <a class="profile-timeline__organization" href="https://www.yzu.edu.cn" target="_blank" rel="noopener noreferrer">Yangzhou University (YZU)</a>
+      <p>Bachelor of Engineering · Artificial Intelligence</p>
+    </div>
+  </div>
+</div>
+
+# 💻 Internships
+<div class="profile-timeline" aria-label="Internship timeline">
+  <div class="profile-timeline__item">
+    <div class="profile-timeline__date">2026.02 – 2026.07</div>
+    <div class="profile-timeline__marker profile-timeline__marker--organization profile-timeline__marker--aiwen" aria-hidden="true"><img src="/images/organizations/aiwen.svg" alt="" loading="lazy" decoding="async"></div>
+    <div class="profile-timeline__content">
+      <a class="profile-timeline__organization" href="https://www.ipplus360.com/home" target="_blank" rel="noopener noreferrer">Aiwen Technology</a>
+      <p>Backend Development Engineer Intern</p>
+    </div>
+  </div>
+
+  <div class="profile-timeline__item">
+    <div class="profile-timeline__date">2024.11 – 2025.02</div>
+    <div class="profile-timeline__marker profile-timeline__marker--organization profile-timeline__marker--chinasoft" aria-hidden="true"><img src="/images/organizations/chinasoft-international-mark.png" alt="" loading="lazy" decoding="async"></div>
+    <div class="profile-timeline__content">
+      <a class="profile-timeline__organization" href="https://www.chinasofti.com/" target="_blank" rel="noopener noreferrer">Chinasoft International</a>
+      <p>Backend Development Engineer Intern</p>
+    </div>
+  </div>
+</div>
+
 <span class='anchor' id='featured-projects'></span>
 # 🚀 Selected Projects
 
@@ -161,46 +203,4 @@ redirect_from:
     <li>Built with Python and CustomTkinter, with an interface designed for focused everyday use.</li>
   </ul>
 </div>
-</div>
-
-# 📖 Education
-<div class="profile-timeline" aria-label="Education timeline">
-  <div class="profile-timeline__item">
-    <div class="profile-timeline__date">2025.09 – Present</div>
-    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><img src="/images/institutions/uestc.webp" alt="" loading="lazy" decoding="async"></div>
-    <div class="profile-timeline__content">
-      <a class="profile-timeline__organization" href="https://www.uestc.edu.cn" target="_blank" rel="noopener noreferrer">University of Electronic Science and Technology of China (UESTC)</a>
-      <p>Master’s Student · Software Engineering</p>
-    </div>
-  </div>
-
-  <div class="profile-timeline__item">
-    <div class="profile-timeline__date">2021.09 – 2025.06</div>
-    <div class="profile-timeline__marker profile-timeline__marker--education" aria-hidden="true"><img src="/images/institutions/yzu.png" alt="" loading="lazy" decoding="async"></div>
-    <div class="profile-timeline__content">
-      <a class="profile-timeline__organization" href="https://www.yzu.edu.cn" target="_blank" rel="noopener noreferrer">Yangzhou University (YZU)</a>
-      <p>Bachelor of Engineering · Artificial Intelligence</p>
-    </div>
-  </div>
-</div>
-
-# 💻 Internships
-<div class="profile-timeline" aria-label="Internship timeline">
-  <div class="profile-timeline__item">
-    <div class="profile-timeline__date">2026.02 – 2026.07</div>
-    <div class="profile-timeline__marker profile-timeline__marker--organization profile-timeline__marker--aiwen" aria-hidden="true"><img src="/images/organizations/aiwen.svg" alt="" loading="lazy" decoding="async"></div>
-    <div class="profile-timeline__content">
-      <a class="profile-timeline__organization" href="https://www.ipplus360.com/home" target="_blank" rel="noopener noreferrer">Aiwen Technology</a>
-      <p>Backend Development Engineer Intern</p>
-    </div>
-  </div>
-
-  <div class="profile-timeline__item">
-    <div class="profile-timeline__date">2024.11 – 2025.02</div>
-    <div class="profile-timeline__marker profile-timeline__marker--organization profile-timeline__marker--chinasoft" aria-hidden="true"><img src="/images/organizations/chinasoft-international-mark.png" alt="" loading="lazy" decoding="async"></div>
-    <div class="profile-timeline__content">
-      <a class="profile-timeline__organization" href="https://www.chinasofti.com/" target="_blank" rel="noopener noreferrer">Chinasoft International</a>
-      <p>Backend Development Engineer Intern</p>
-    </div>
-  </div>
 </div>
