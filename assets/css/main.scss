@@ -240,6 +240,7 @@
 
 .profile-timeline {
     margin: .35rem 0 1rem;
+    padding-left: 2em;
 }
 
 .profile-timeline__item {
@@ -271,6 +272,7 @@
 .profile-timeline__marker {
     display: inline-flex;
     z-index: 1;
+    position: relative;
     align-items: center;
     justify-content: center;
     justify-self: center;
@@ -298,8 +300,28 @@
     }
 }
 
-.profile-timeline__marker--internship {
-    background: #477b65;
+.profile-timeline__marker--organization {
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: .24rem;
+    border: 1px solid #dce3eb;
+    background: #fff;
+
+    img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+}
+
+.profile-timeline__marker--chinasoft img {
+    position: absolute;
+    top: -.32rem;
+    left: -.12rem;
+    width: auto;
+    max-width: none;
+    height: 4rem;
 }
 
 .profile-timeline__content {
