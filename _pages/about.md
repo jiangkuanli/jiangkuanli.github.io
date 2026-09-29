@@ -32,14 +32,14 @@ redirect_from:
 - *2024.09*: 🎓 Admitted to UESTC for graduate studies without entrance exam.
 - *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
-## 📝 Publications
+# 📝 Publications
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Three papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] One paper submitted to AAAI 2027 — <span style="color:#ff0000"><i>Advanced to Phase 2</i></span>
 - [<span style="color:#1e90ff">ICASSP 2027, CCF-B</span>] One paper submitted to ICASSP 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TMM, CCF-A</span>] One paper submitted to TMM — <span style="color:#ff0000"><i>Under Review</i></span>
 
 
-## 📜 Patents
+# 📜 Patents
 - A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios (2/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
 - An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification (3/5 inventors) — <span style="color:#ff0000"><i>Patent published; under substantive examination</i></span>
 - A Parameter Memory Routing Method, System, and Electronic Device for Continual Visual Recognition (2/6 inventors) — <span style="color:#ff0000"><i>Patent application accepted</i></span>
