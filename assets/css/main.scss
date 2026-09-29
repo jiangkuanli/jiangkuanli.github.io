@@ -180,19 +180,13 @@
 
 .patent-item__status {
     padding: .16rem .45rem;
-    border: 1px solid #f0d791;
+    border: 1px solid #efb4b4;
     border-radius: 999px;
-    color: #9a6700;
-    background: #fffaf0;
+    color: #c62828;
+    background: #fff4f4;
     font-size: .64em;
     font-weight: 600;
     white-space: nowrap;
-}
-
-.patent-item__status--pending {
-    border-color: #d8dde4;
-    color: #66717f;
-    background: #f7f8fa;
 }
 
 .patent-item__title {
