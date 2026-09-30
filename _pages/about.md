@@ -86,27 +86,27 @@ redirect_from:
 </ul>
 
 # 🏆 Competitions and Achievements
-- 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
-- 2024.07: National Third Prize, ReCon Robot Developer Competition (Team of 2, Rank 1)  
-- 2024.07: Jiangsu First Prize, ReCon Robot Developer Competition (Team of 2, Rank 1)  
-- 2024.07: East China Third Prize, China Computer Competition - C4 Network Technology Challenge (Team of 5, Rank 3)  
-- 2024.07: East China Third Prize, China Computer Competition - C4 Network Technology Challenge (Team of 6, Rank 3)  
-- 2024.07: Jiangsu Second Prize, Jiangsu Higher Mathematics Competition (Individual, Rank 1)  
-- 2024.06: Jiangsu Special Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 2)  
-- 2024.05: National Third Prize, Chinese Collegiate Computing Design Competition (Team of 5, Rank 2)  
-- 2024.05: Jiangsu First Prize, Chinese Collegiate Computing Design Competition (Team of 5, Rank 2)  
-- 2024.04: Jiangsu Second Prize, Lanqiao Cup Software & IT Competition (Individual, Rank 1)  
-- 2023.12: Excellence Award, Huichuang Cup (Team of 11, Rank 5)  
-- 2023.12: Silver Award, Challenge Cup Academic and Entrepreneurial Competition (Team of 11, Rank 3)  
-- 2023.12: National Third Prize, National College Mathematics Competition (Individual, Rank 1)  
-- 2023.10: Excellence Award, National Algorithm Design and Programming Challenge (Individual, Rank 1)  
-- 2023.09: School Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
-- 2023.09: Jiangsu Second Prize, Higher Education Society Cup Mathematical Modeling Competition (Team of 3, Rank 1)  
-- 2023.07: Jiangsu Second Prize, Jiangsu Higher Mathematics Competition (Individual, Rank 1)  
-- 2023.03: National First Prize, MathorCup Mathematical Modeling Competition (Team of 3, Rank 1)  
-- 2022.09: Jiangsu Second Prize, Higher Education Society Cup Mathematical Modeling Competition (Team of 3, Rank 1)  
-- 2022.08: National Second Prize, Huashu Cup National Mathematical Modeling Competition (Team of 3, Rank 1)  
-- 2022.06: Second Prize, Yangzhou University Mathematical Modeling Competition (Team of 3, Rank 1)  
+- 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 3</span>  
+- 2024.07: National Third Prize, ReCon Robot Developer Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 2 · Rank 1</span>  
+- 2024.07: Jiangsu First Prize, ReCon Robot Developer Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 2 · Rank 1</span>  
+- 2024.07: East China Third Prize, China Computer Competition - C4 Network Technology Challenge <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 5 · Rank 3</span>  
+- 2024.07: East China Third Prize, China Computer Competition - C4 Network Technology Challenge <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 6 · Rank 3</span>  
+- 2024.07: Jiangsu Second Prize, Jiangsu Higher Mathematics Competition <span class="competition-meta"><i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1</span>  
+- 2024.06: Jiangsu Special Prize, Xuechuang Cup Entrepreneurship Simulation Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 2</span>  
+- 2024.05: National Third Prize, Chinese Collegiate Computing Design Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 5 · Rank 2</span>  
+- 2024.05: Jiangsu First Prize, Chinese Collegiate Computing Design Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 5 · Rank 2</span>  
+- 2024.04: Jiangsu Second Prize, Lanqiao Cup Software & IT Competition <span class="competition-meta"><i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1</span>  
+- 2023.12: Excellence Award, Huichuang Cup <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 11 · Rank 5</span>  
+- 2023.12: Silver Award, Challenge Cup Academic and Entrepreneurial Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 11 · Rank 3</span>  
+- 2023.12: National Third Prize, National College Mathematics Competition <span class="competition-meta"><i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1</span>  
+- 2023.10: Excellence Award, National Algorithm Design and Programming Challenge <span class="competition-meta"><i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1</span>  
+- 2023.09: School Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 3</span>  
+- 2023.09: Jiangsu Second Prize, Higher Education Society Cup Mathematical Modeling Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1</span>  
+- 2023.07: Jiangsu Second Prize, Jiangsu Higher Mathematics Competition <span class="competition-meta"><i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1</span>  
+- 2023.03: National First Prize, MathorCup Mathematical Modeling Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1</span>  
+- 2022.09: Jiangsu Second Prize, Higher Education Society Cup Mathematical Modeling Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1</span>  
+- 2022.08: National Second Prize, Huashu Cup National Mathematical Modeling Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1</span>  
+- 2022.06: Second Prize, Yangzhou University Mathematical Modeling Competition <span class="competition-meta"><i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1</span>  
 
 # 🎖 Honors and Awards
 - 2025.09: Second-Class Freshman Scholarship
