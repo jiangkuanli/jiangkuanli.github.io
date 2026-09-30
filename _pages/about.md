@@ -31,9 +31,9 @@ redirect_from:
 {% endcomment %}
 
 # 🔥 News
-- *2025.06*: 🌟 Graduated with bachelor’s degree in Artificial Intelligence from Yangzhou University.
-- *2024.09*: 🎓 Admitted to UESTC for graduate studies without entrance exam.
-- *2021.09 - 2025.06*: Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
+- <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🌟 Graduated with bachelor’s degree in Artificial Intelligence from Yangzhou University.
+- <span style="color:#B00C00">[*2024.09*]</span> &nbsp;🎓 Admitted to UESTC for graduate studies without entrance exam.
+- <span style="color:#B00C00">[*2021.09 - 2025.06*]</span> &nbsp;Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
 
 # 📝 Publications
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Three papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
