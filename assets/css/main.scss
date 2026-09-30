@@ -238,12 +238,16 @@
 }
 
 .competition-meta {
-    margin-left: .22rem;
-    color: #677487;
+    margin-left: .18rem;
+    color: #718096;
+    font-size: 1em;
+    font-variant-numeric: tabular-nums;
     white-space: nowrap;
 
     i {
-        margin-right: .2rem;
+        margin: 0 .16rem 0 .04rem;
+        color: #8798aa;
+        font-size: .88em;
     }
 }
 
