@@ -118,7 +118,7 @@ redirect_from:
 - 2023.12: University “Three Good Student”
 - 2022–2024: National Endeavor Scholarship
 
-<span class='anchor' id='featured-projects'></span>
+<span class='anchor' id='-featured-projects'></span>
 # 🚀 Selected Projects
 
 <div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Research Collection</div><a class="project-image-link" href="https://github.com/Re-ljk/deep-learning-experiments" target="_blank" rel="noopener noreferrer" aria-label="View Deep Learning Experiments on GitHub"><img src="/images/projects/deep-learning.png" alt="Deep Learning Experiments" width="100%" loading="lazy" decoding="async"></a></div>
