@@ -85,22 +85,22 @@ redirect_from:
   </li>
 </ul>
 
-# 🏆 Competitions and Achievements
-- 2024.11: National Second Prize, <a href="https://www.bster.cn/cyds/index" target="_blank" rel="noopener noreferrer">“Xuechuang Cup” National College Student Entrepreneurship Comprehensive Simulation Competition</a> <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 3)</span>  
+# 🏆 Competitions
+- 2024.11: National Second Prize, “Xuechuang Cup” National College Student Entrepreneurship Comprehensive Simulation Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 3)</span>  
 - 2024.07: National Third Prize, RAICOM Robot Developer Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 2 · Rank 1)</span>  
 - 2024.07: Jiangsu First Prize, RAICOM Robot Developer Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 2 · Rank 1)</span>  
 - 2024.07: East China Third Prize, C4 Network Technology Challenge <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 5 · Rank 3)</span>  
 - 2024.07: East China Third Prize, C4 Network Technology Challenge <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 6 · Rank 3)</span>  
 - 2024.07: Jiangsu Second Prize, Jiangsu Collegiate Advanced Mathematics Competition <span class="competition-meta">(<i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1)</span>  
-- 2024.06: Jiangsu Special Prize, <a href="https://www.bster.cn/cyds/index" target="_blank" rel="noopener noreferrer">“Xuechuang Cup” National College Student Entrepreneurship Comprehensive Simulation Competition</a> <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 2)</span>  
+- 2024.06: Jiangsu Special Prize, “Xuechuang Cup” National College Student Entrepreneurship Comprehensive Simulation Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 2)</span>  
 - 2024.05: National Third Prize, Chinese Collegiate Computing Competition (4C) <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 5 · Rank 2)</span>  
 - 2024.05: Jiangsu First Prize, Chinese Collegiate Computing Competition (4C) <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 5 · Rank 2)</span>  
 - 2024.04: Jiangsu Second Prize, Blue Bridge Cup National Software and Information Technology Professional Talent Competition <span class="competition-meta">(<i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1)</span>  
 - 2023.12: Excellence Award, Yangzhou University “Huichuang Cup” Innovation and Entrepreneurship Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 11 · Rank 5)</span>  
-- 2023.12: Silver Award, <a href="https://tiaozhanbei.net/" target="_blank" rel="noopener noreferrer">2023 “Challenge Cup” Yangzhou University Student Entrepreneurship Plan Competition</a> <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 11 · Rank 3)</span>  
+- 2023.12: Silver Award, 2023 “Challenge Cup” Yangzhou University Student Entrepreneurship Plan Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 11 · Rank 3)</span>  
 - 2023.12: National Third Prize, Chinese Mathematics Competitions for College Students (CMC) <span class="competition-meta">(<i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1)</span>  
 - 2023.10: Excellence Award, 2023–2024 National College Student Algorithm Design and Programming Challenge (Autumn Contest) <span class="competition-meta">(<i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1)</span>  
-- 2023.09: School Second Prize, <a href="https://www.bster.cn/cyds/index" target="_blank" rel="noopener noreferrer">“Xuechuang Cup” National College Student Entrepreneurship Comprehensive Simulation Competition</a> <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 3)</span>  
+- 2023.09: School Second Prize, “Xuechuang Cup” National College Student Entrepreneurship Comprehensive Simulation Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 3)</span>  
 - 2023.09: Jiangsu Second Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1)</span>  
 - 2023.07: Jiangsu Second Prize, Jiangsu Collegiate Advanced Mathematics Competition <span class="competition-meta">(<i class="fas fa-user" aria-hidden="true"></i> Individual · Rank 1)</span>  
 - 2023.03: National First Prize, MathorCup Mathematical Modeling Challenge <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1)</span>  
