@@ -44,6 +44,7 @@
     > p,
     > ul,
     > .patent-list,
+    > .competition-timeline,
     > .profile-timeline,
     > .paper-box {
         font-size: 1em;
@@ -238,6 +239,151 @@
     font-style: italic;
 }
 
+.competition-timeline {
+    margin: .35rem 0 1rem;
+    padding-left: 2em;
+    border-top: 1px solid #edf0f3;
+}
+
+.competition-year {
+    display: grid;
+    grid-template-columns: 4.5rem minmax(0, 1fr);
+    padding: .8rem 0 .25rem;
+    border-bottom: 1px solid #edf0f3;
+}
+
+.competition-year__label {
+    position: relative;
+    padding-top: .05rem;
+    color: #1e5aa8;
+    font-size: 1.08em;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: .03em;
+
+    &::after {
+        content: "";
+        display: block;
+        width: 1.8rem;
+        height: 2px;
+        margin-top: .35rem;
+        border-radius: 1px;
+        background: #1e5aa8;
+    }
+}
+
+.competition-year__items {
+    min-width: 0;
+}
+
+.competition-item {
+    display: grid;
+    grid-template-columns: 3.4rem minmax(0, 1fr);
+    gap: .7rem;
+    position: relative;
+    padding: 0 0 .8rem 1rem;
+
+    &:not(:last-child) {
+        margin-bottom: .8rem;
+        border-bottom: 1px dashed #e5e9ee;
+    }
+
+    &::before {
+        content: "";
+        position: absolute;
+        top: .43rem;
+        left: 0;
+        width: .42rem;
+        height: .42rem;
+        border: 2px solid #8ba8cc;
+        border-radius: 50%;
+        background: #fff;
+    }
+
+    &:not(:last-child)::after {
+        content: "";
+        position: absolute;
+        top: 1.15rem;
+        bottom: -.82rem;
+        left: .27rem;
+        width: 1px;
+        background: #dce5ef;
+    }
+}
+
+.competition-item__date {
+    padding-top: .05rem;
+    color: #74808d;
+    font-size: .82em;
+    font-weight: 700;
+    letter-spacing: .07em;
+}
+
+.competition-item__content {
+    min-width: 0;
+}
+
+.competition-item__award {
+    display: inline-block;
+    margin-bottom: .28rem;
+    padding: .1rem .48rem;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    font-size: .78em;
+    font-weight: 700;
+    letter-spacing: .025em;
+    line-height: 1.45;
+}
+
+.competition-item__award--national {
+    border-color: #cbdcf2;
+    color: #174f92;
+    background: #edf5ff;
+}
+
+.competition-item__award--regional {
+    border-color: #c9e4dc;
+    color: #176b59;
+    background: #effaf6;
+}
+
+.competition-item__award--general {
+    border-color: #ead9ad;
+    color: #806019;
+    background: #fff9e9;
+}
+
+.competition-item__award--school {
+    border-color: #dce1e6;
+    color: #59636e;
+    background: #f6f7f8;
+}
+
+.competition-item__title {
+    color: #2f3439;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.competition-item__meta {
+    margin-top: .2rem;
+    color: #78838f;
+    font-size: .88em;
+    line-height: 1.45;
+
+    i {
+        width: 1.05rem;
+        margin-right: .12rem;
+        color: #94a0ad;
+        text-align: center;
+    }
+
+    span {
+        margin: 0 .25rem;
+        color: #a1aab4;
+    }
+}
+
 .profile-timeline {
     margin: .35rem 0 1rem;
     padding-left: 2em;
@@ -353,6 +499,25 @@
     .patent-item__meta {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    .competition-timeline {
+        padding-left: 1.25em;
+    }
+
+    .competition-year {
+        display: block;
+        padding-top: .7rem;
+    }
+
+    .competition-year__label {
+        margin-bottom: .8rem;
+    }
+
+    .competition-item {
+        grid-template-columns: 2.7rem minmax(0, 1fr);
+        gap: .55rem;
+        padding-left: .85rem;
     }
 
     .profile-timeline__item {

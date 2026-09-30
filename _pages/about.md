@@ -83,27 +83,194 @@ redirect_from:
 </ul>
 
 # 🏆 Competitions and Achievements
-- 2024.11: National Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
-- 2024.07: National Third Prize, ReCon Robot Developer Competition (Team of 2, Rank 1)  
-- 2024.07: Jiangsu First Prize, ReCon Robot Developer Competition (Team of 2, Rank 1)  
-- 2024.07: East China Third Prize, China Computer Competition - C4 Network Technology Challenge (Team of 5, Rank 3)  
-- 2024.07: East China Third Prize, China Computer Competition - C4 Network Technology Challenge (Team of 6, Rank 3)  
-- 2024.07: Jiangsu Second Prize, Jiangsu Higher Mathematics Competition (Individual, Rank 1)  
-- 2024.06: Jiangsu Special Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 2)  
-- 2024.05: National Third Prize, Chinese Collegiate Computing Design Competition (Team of 5, Rank 2)  
-- 2024.05: Jiangsu First Prize, Chinese Collegiate Computing Design Competition (Team of 5, Rank 2)  
-- 2024.04: Jiangsu Second Prize, Lanqiao Cup Software & IT Competition (Individual, Rank 1)  
-- 2023.12: Excellence Award, Huichuang Cup (Team of 11, Rank 5)  
-- 2023.12: Silver Award, Challenge Cup Academic and Entrepreneurial Competition (Team of 11, Rank 3)  
-- 2023.12: National Third Prize, National College Mathematics Competition (Individual, Rank 1)  
-- 2023.10: Excellence Award, National Algorithm Design and Programming Challenge (Individual, Rank 1)  
-- 2023.09: School Second Prize, Xuechuang Cup Entrepreneurship Simulation Competition (Team of 3, Rank 3)  
-- 2023.09: Jiangsu Second Prize, Higher Education Society Cup Mathematical Modeling Competition (Team of 3, Rank 1)  
-- 2023.07: Jiangsu Second Prize, Jiangsu Higher Mathematics Competition (Individual, Rank 1)  
-- 2023.03: National First Prize, MathorCup Mathematical Modeling Competition (Team of 3, Rank 1)  
-- 2022.09: Jiangsu Second Prize, Higher Education Society Cup Mathematical Modeling Competition (Team of 3, Rank 1)  
-- 2022.08: National Second Prize, Huashu Cup National Mathematical Modeling Competition (Team of 3, Rank 1)  
-- 2022.06: Second Prize, Yangzhou University Mathematical Modeling Competition (Team of 3, Rank 1)  
+
+<div class="competition-timeline" role="list" aria-label="Competition awards">
+  <section class="competition-year" aria-labelledby="competitions-2024">
+    <div class="competition-year__label" id="competitions-2024">2024</div>
+    <div class="competition-year__items">
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-11">NOV</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--national">National Second Prize</span>
+          <div class="competition-item__title">Xuechuang Cup Entrepreneurship Simulation Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 3 <span>·</span> Rank 3</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-07">JUL</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--national">National Third Prize</span>
+          <div class="competition-item__title">ReCon Robot Developer Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 2 <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-07">JUL</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">Jiangsu First Prize</span>
+          <div class="competition-item__title">ReCon Robot Developer Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 2 <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-07">JUL</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">East China Third Prize</span>
+          <div class="competition-item__title">China Computer Competition — C4 Network Technology Challenge</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 5 <span>·</span> Rank 3</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-07">JUL</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">East China Third Prize</span>
+          <div class="competition-item__title">China Computer Competition — C4 Network Technology Challenge</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 6 <span>·</span> Rank 3</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-07">JUL</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">Jiangsu Second Prize</span>
+          <div class="competition-item__title">Jiangsu Higher Mathematics Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-user" aria-hidden="true"></i> Individual <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-06">JUN</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">Jiangsu Special Prize</span>
+          <div class="competition-item__title">Xuechuang Cup Entrepreneurship Simulation Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 3 <span>·</span> Rank 2</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-05">MAY</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--national">National Third Prize</span>
+          <div class="competition-item__title">Chinese Collegiate Computing Design Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 5 <span>·</span> Rank 2</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-05">MAY</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">Jiangsu First Prize</span>
+          <div class="competition-item__title">Chinese Collegiate Computing Design Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 5 <span>·</span> Rank 2</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2024-04">APR</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">Jiangsu Second Prize</span>
+          <div class="competition-item__title">Lanqiao Cup Software &amp; IT Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-user" aria-hidden="true"></i> Individual <span>·</span> Rank 1</div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="competition-year" aria-labelledby="competitions-2023">
+    <div class="competition-year__label" id="competitions-2023">2023</div>
+    <div class="competition-year__items">
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2023-12">DEC</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--general">Excellence Award</span>
+          <div class="competition-item__title">Huichuang Cup</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 11 <span>·</span> Rank 5</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2023-12">DEC</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--general">Silver Award</span>
+          <div class="competition-item__title">Challenge Cup Academic and Entrepreneurial Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 11 <span>·</span> Rank 3</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2023-12">DEC</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--national">National Third Prize</span>
+          <div class="competition-item__title">National College Mathematics Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-user" aria-hidden="true"></i> Individual <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2023-10">OCT</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--national">Excellence Award</span>
+          <div class="competition-item__title">National Algorithm Design and Programming Challenge</div>
+          <div class="competition-item__meta"><i class="fas fa-user" aria-hidden="true"></i> Individual <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2023-09">SEP</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--school">School Second Prize</span>
+          <div class="competition-item__title">Xuechuang Cup Entrepreneurship Simulation Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 3 <span>·</span> Rank 3</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2023-09">SEP</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">Jiangsu Second Prize</span>
+          <div class="competition-item__title">Higher Education Society Cup Mathematical Modeling Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 3 <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2023-07">JUL</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">Jiangsu Second Prize</span>
+          <div class="competition-item__title">Jiangsu Higher Mathematics Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-user" aria-hidden="true"></i> Individual <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2023-03">MAR</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--national">National First Prize</span>
+          <div class="competition-item__title">MathorCup Mathematical Modeling Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 3 <span>·</span> Rank 1</div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="competition-year" aria-labelledby="competitions-2022">
+    <div class="competition-year__label" id="competitions-2022">2022</div>
+    <div class="competition-year__items">
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2022-09">SEP</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--regional">Jiangsu Second Prize</span>
+          <div class="competition-item__title">Higher Education Society Cup Mathematical Modeling Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 3 <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2022-08">AUG</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--national">National Second Prize</span>
+          <div class="competition-item__title">Huashu Cup National Mathematical Modeling Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 3 <span>·</span> Rank 1</div>
+        </div>
+      </article>
+      <article class="competition-item" role="listitem">
+        <time class="competition-item__date" datetime="2022-06">JUN</time>
+        <div class="competition-item__content">
+          <span class="competition-item__award competition-item__award--school">Second Prize</span>
+          <div class="competition-item__title">Yangzhou University Mathematical Modeling Competition</div>
+          <div class="competition-item__meta"><i class="fas fa-users" aria-hidden="true"></i> Team of 3 <span>·</span> Rank 1</div>
+        </div>
+      </article>
+    </div>
+  </section>
+</div>
 
 # 🎖 Honors and Awards
 - 2025.09: Second-Class Freshman Scholarship
