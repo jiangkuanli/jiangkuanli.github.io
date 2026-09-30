@@ -31,9 +31,13 @@ redirect_from:
 {% endcomment %}
 
 # 🔥 News
-- <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🌟 Graduated with bachelor’s degree in Artificial Intelligence from Yangzhou University.
-- <span style="color:#B00C00">[*2024.09*]</span> &nbsp;🎓 Admitted to UESTC for graduate studies without entrance exam.
-- <span style="color:#B00C00">[*2021.09 - 2025.06*]</span> &nbsp;Studied at Yangzhou University, served as freshman counselor assistant and class study committee member, actively engaged in academic competitions, research, and social practice, winning multiple honors.
+- <span style="color:#B00C00">[*2026.09*]</span> &nbsp;🎉 One paper advanced to Phase 2 Review at AAAI 2027.
+- <span style="color:#B00C00">[*2026.09*]</span> &nbsp;📝 Three papers were submitted to ICLR 2027, one paper to ICASSP 2027, and one manuscript to IEEE Transactions on Multimedia (TMM).
+- <span style="color:#B00C00">[*2026.04*]</span> &nbsp;🎉 Our patent on wavelet-enhanced test-time adaptation was published ([CN121837669A](http://epub.cnipa.gov.cn/patent/CN121837669A)).
+- <span style="color:#B00C00">[*2026.03*]</span> &nbsp;🎉 Our patent on text-image person re-identification was published ([CN121600553A](http://epub.cnipa.gov.cn/patent/CN121600553A)).
+- <span style="color:#B00C00">[*2025.09*]</span> &nbsp;🎓 Started my master’s studies in Software Engineering at UESTC and received a Second-Class Graduate Academic Scholarship.
+- <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🌟 Graduated with a B.Eng. in Artificial Intelligence and was named an Outstanding Graduate of Yangzhou University.
+- <span style="color:#B00C00">[*2024.09*]</span> &nbsp;🎓 Recommended for admission to UESTC without entrance examination, ranking 1st in my major.
 
 # 📝 Publications
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Three papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
