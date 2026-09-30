@@ -32,7 +32,8 @@ redirect_from:
 
 # 🔥 News
 - <span style="color:#B00C00">[*2026.09*]</span> &nbsp;🎉 One paper advanced to Phase 2 Review at AAAI 2027.
-- <span style="color:#B00C00">[*2026.09*]</span> &nbsp;📝 Three papers were submitted to ICLR 2027, one paper to ICASSP 2027, and one manuscript to IEEE Transactions on Multimedia (TMM).
+- <span style="color:#B00C00">[*2026.09*]</span> &nbsp;📝 Three papers were submitted to ICLR 2027 and one paper to ICASSP 2027.
+- <span style="color:#B00C00">[*2026.05*]</span> &nbsp;📝 One manuscript was submitted to IEEE Transactions on Multimedia (TMM).
 - <span style="color:#B00C00">[*2026.04*]</span> &nbsp;🎉 Our patent on wavelet-enhanced test-time adaptation was published ([CN121837669A](http://epub.cnipa.gov.cn/patent/CN121837669A)).
 - <span style="color:#B00C00">[*2026.03*]</span> &nbsp;🎉 Our patent on text-image person re-identification was published ([CN121600553A](http://epub.cnipa.gov.cn/patent/CN121600553A)).
 - <span style="color:#B00C00">[*2025.09*]</span> &nbsp;🎓 Started my master’s studies in Software Engineering at UESTC and received a Second-Class Graduate Academic Scholarship.
