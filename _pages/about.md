@@ -77,7 +77,7 @@ redirect_from:
     <p class="patent-item__title">A Parameter Memory Routing Method, System, and Electronic Device for Continual Visual Recognition</p>
     <div class="patent-item__meta">
       <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/6 inventors</span>
-      <span class="patent-item__note">Awaiting publication</span>
+      <span class="patent-item__note">Application No. 2026114194626</span>
     </div>
   </li>
 </ul>
