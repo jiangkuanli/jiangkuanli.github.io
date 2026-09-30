@@ -109,14 +109,14 @@ redirect_from:
 - 2022.06: Second Prize, Yangzhou University Mathematical Modeling Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1)</span>  
 
 # 🎖 Honors and Awards
-- 2025.09: Second-Class Freshman Scholarship
-- 2025.06: Outstanding Graduate
-- 2024.12: Excellent Student Cadre
-- 2024.10: Excellent Team in Social Practice <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 5 · Rank 3)</span>
-- 2024.05: Excellent Communist Youth League Member
-- 2024.03: Advanced Individual in Social Practice
-- 2023.12: University “Three Good Student”
-- 2022–2024: National Endeavor Scholarship
+- 2025.09: Second-Class Graduate Academic Scholarship, UESTC
+- 2025.06: Outstanding Graduate, Yangzhou University
+- 2024.12: Outstanding Student Leader, Yangzhou University
+- 2024.10: Outstanding Team, 2024 Yangzhou University Summer “Three Rural Areas” Social Practice Program <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 5 · Rank 3)</span>
+- 2024.05: Outstanding Communist Youth League Member, Yangzhou University
+- 2024.03: Outstanding Individual, 2023 Yangzhou University Summer “Three Rural Areas” Social Practice Program
+- 2023.12: Three-Good Student, Yangzhou University
+- 2022–2024: National Encouragement Scholarship (Two Consecutive Years)
 
 <span class='anchor' id='-featured-projects'></span>
 # 🚀 Selected Projects
