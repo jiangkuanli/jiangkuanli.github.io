@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangkuan Li"
-description              : "Graduate student at UESTC. Passionating about Transfer Learning , Continual Learning, Person Re-Identification and Multimodal Large Models. "
+description              : "Graduate student at UESTC. Passionate about Transfer Learning, Continual Learning, Person Re-Identification, Cross-Modal Retrieval, and Multimodal Large Models."
 repository               : "jiangkuanli/jiangkuanli.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -26,7 +26,6 @@ author:
   bio              : "University of Electronic Science and Technology of China (UESTC)"
   location         : "Chengdu, China"
   employer         :
-  research_interest: "Cross-Modal Retrieval"
   pubmed           : 
   googlescholar    :  #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "jiangkuanli@163.com"
