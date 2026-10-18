@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About Me
 &emsp;&emsp;I am **Jiangkuan Li**, a second-year master's student in Software Engineering at the **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)**, where I was admitted through recommendation without an entrance exam (Ranked 1st in my major). I received my Bachelor of Engineering degree in Artificial Intelligence from **[Yangzhou University(YZU)](https://www.yzu.edu.cn)** in June 2025. 
 
-&emsp;&emsp;My research interests focus on **🔄 Transfer Learning, ♻️ Continual Learning, 🕵️‍♂️ Person Re-Identification, 🔎 Cross-Modal Retrieval, and 🤖 Multimodal Large Models**. If you are interested in my work, feel free to contact me via **[email](mailto:jiangkuanli@std.uestc.edu.cn)**, explore my projects on **[GitHub](https://github.com/Re-ljk)** or **[Lab Git](http://47.108.232.156:3000/Jiangkuanli)**, or visit my **[personal blog](https://www.leejk-magic.top/)** for research updates and project insights. I am always open to collaborations and academic exchanges.
+&emsp;&emsp;My research interests focus on **🔄 Transfer Learning, ♻️ Continual Learning, 🕵️‍♂️ Person Re-Identification, 🔎 Cross-Modal Retrieval, and 🤖 Multimodal Large Models**. If you are interested in my work, feel free to contact me via **[email](mailto:jiangkuanli@163.com)**, explore my projects on **[GitHub](https://github.com/Re-ljk)** or **[Lab Git](http://47.108.232.156:3000/Jiangkuanli)**, or visit my **[personal blog](https://www.leejk-magic.top/)** for research updates and project insights. I am always open to collaborations and academic exchanges.
 
 {% comment %}
 # 🧠 Research Interests
@@ -31,6 +31,7 @@ redirect_from:
 {% endcomment %}
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.10*]</span> &nbsp;🎉 Received a Second-Class Graduate Academic Scholarship at UESTC for the second consecutive year!
 - <span style="color:#B00C00">[*2026.09*]</span> &nbsp;🎉🎉 One paper advanced to Phase 2 Review at AAAI 2027! 🍀 Wish us luck!
 - <span style="color:#B00C00">[*2026.09*]</span> &nbsp;🎉🎉 Three papers were submitted to ICLR 2027! 🍀 Wish us luck!
 - <span style="color:#B00C00">[*2026.09*]</span> &nbsp;🎉🎉 One paper was submitted to ICASSP 2027! 🍀 Wish us luck!
@@ -116,6 +117,7 @@ redirect_from:
 - 2022.06: Second Prize, Yangzhou University Mathematical Modeling Competition <span class="competition-meta">(<i class="fas fa-user-friends" aria-hidden="true"></i> Team of 3 · Rank 1)</span>  
 
 # 🎖 Honors and Awards
+- 2026.10: Second-Class Graduate Academic Scholarship, UESTC
 - 2025.09: Second-Class Graduate Academic Scholarship, UESTC
 - 2025.06: Outstanding Graduate, Yangzhou University
 - 2024.12: Outstanding Student Leader, Yangzhou University
