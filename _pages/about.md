@@ -160,6 +160,7 @@ redirect_from:
 </div>
 </div>
 
+<!--
 <div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Desktop Productivity</div><a class="project-image-link" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer" aria-label="View MyTodoApp on GitHub"><img src="/images/projects/my-todo-app.png" alt="MyTodoApp desktop interface" width="100%" loading="lazy" decoding="async"></a></div>
 <div class="paper-box-text">
 
@@ -174,6 +175,7 @@ redirect_from:
   </ul>
 </div>
 </div>
+-->
 
 # 📖 Education
 <div class="profile-timeline" aria-label="Education timeline">
