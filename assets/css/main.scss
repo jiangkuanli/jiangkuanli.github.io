@@ -65,44 +65,6 @@
     }
 }
 
-.page__content > .publication-category {
-    position: relative;
-    margin: 1.1em 0 .35em;
-    padding-left: 2rem;
-    color: #394756;
-    font-family: inherit;
-    font-size: 1.05em;
-    font-weight: 600;
-    line-height: 1.5;
-    overflow-wrap: break-word;
-
-    &::before {
-        content: "";
-        position: absolute;
-        top: .23em;
-        left: 1.1rem;
-        width: 3px;
-        height: 1em;
-        border-radius: 1px;
-        background: #1e90ff;
-    }
-
-    .publication-category__icon {
-        display: inline-block;
-        width: 1.25em;
-        margin-right: .35em;
-        font-size: .9em;
-        font-weight: 400;
-        text-align: center;
-        vertical-align: .02em;
-    }
-
-    + ul {
-        margin-top: .3em;
-        margin-bottom: .9em;
-    }
-}
-
 .paper-box {
     display: flex;
     justify-content: left;
