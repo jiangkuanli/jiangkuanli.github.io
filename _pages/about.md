@@ -53,7 +53,7 @@ redirect_from:
 
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Two papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 
-<h2 class="publication-category">Transfer Learning for Person Re-Identification</h2>
+<h2 class="publication-category">Transfer Learning and Person Re-Identification</h2>
 
 - [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] One paper submitted to AAAI 2027 — <span style="color:#ff0000"><i>Advanced to Phase 2</i></span>
 
