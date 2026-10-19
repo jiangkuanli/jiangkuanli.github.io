@@ -44,8 +44,21 @@ redirect_from:
 - <span style="color:#B00C00">[*2024.09*]</span> &nbsp;🎓 Recommended for admission to UESTC without entrance examination, ranking 1st in my major.
 
 # 📝 Publications
-- [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Three papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
+
+## 🔄 Transfer Learning & Large Models
+
+- [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] One paper submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
+
+## ♻️ Continual Learning & Large Models
+
+- [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Two papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
+
+## 🕵️ Transfer Learning & Person Re-Identification
+
 - [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] One paper submitted to AAAI 2027 — <span style="color:#ff0000"><i>Advanced to Phase 2</i></span>
+
+## 🔎 Cross-Modal Retrieval
+
 - [<span style="color:#1e90ff">ICASSP 2027, CCF-B</span>] One paper submitted to ICASSP 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TMM, CCF-A</span>] One paper submitted to TMM — <span style="color:#ff0000"><i>Under Review</i></span>
 
