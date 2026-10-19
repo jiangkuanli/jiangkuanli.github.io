@@ -45,11 +45,11 @@ redirect_from:
 
 # 📝 Publications
 
-## 🔄 Transfer Learning & Large Models
+## 🔄 Transfer Learning & Multimodal Large Language Models
 
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] One paper submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 
-## ♻️ Continual Learning & Large Models
+## ♻️ Continual Learning & Multimodal Large Language Models
 
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Two papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 
