@@ -65,6 +65,34 @@
     }
 }
 
+.page__content > .publication-category {
+    position: relative;
+    margin: 1.1em 0 .35em;
+    padding-left: .85em;
+    color: #394756;
+    font-family: inherit;
+    font-size: 1.05em;
+    font-weight: 600;
+    line-height: 1.5;
+    overflow-wrap: break-word;
+
+    &::before {
+        content: "";
+        position: absolute;
+        top: .23em;
+        left: 0;
+        width: 3px;
+        height: 1em;
+        border-radius: 1px;
+        background: #1e90ff;
+    }
+
+    + ul {
+        margin-top: .3em;
+        margin-bottom: .9em;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
