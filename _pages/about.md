@@ -161,7 +161,21 @@ redirect_from:
 </div>
 </div>
 
-<!--
+<div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Cross-Modal Retrieval</div><a class="project-image-link" href="https://github.com/Re-ljk/personalens-visionhub" target="_blank" rel="noopener noreferrer" aria-label="View PersonaLens VisionHub on GitHub"><img src="/images/projects/personalens-visionhub-results.png" alt="PersonaLens VisionHub interface comparing Baseline and Ours text-image retrieval results" width="100%" loading="lazy" decoding="async"></a></div>
+<div class="paper-box-text">
+
+  <p class="project-title-line"><a class="project-name" href="https://github.com/Re-ljk/personalens-visionhub" target="_blank" rel="noopener noreferrer">PersonaLens VisionHub</a> | <strong>Research Visualization</strong> | <a href="https://github.com/Re-ljk/personalens-visionhub" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a> | <a href="https://github.com/Re-ljk/personalens-visionhub/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Re-ljk/personalens-visionhub?style=social&amp;label=Stars" alt="GitHub stars" loading="lazy"></a></p>
+
+  <p class="project-summary">A visual workspace for text-image person retrieval and side-by-side model comparison.</p>
+
+  <ul>
+    <li>Retrieves pedestrian images from an indexed gallery using supported English descriptions.</li>
+    <li>Compares Baseline and Ours results with Top-10 rankings, similarity scores, and enlarged image previews.</li>
+    <li>Combines React, TypeScript, and Flask with responsive image grids and local search history.</li>
+  </ul>
+</div>
+</div>
+
 <div class="paper-box project-paper-box"><div class="paper-box-image"><div class="badge">Desktop Productivity</div><a class="project-image-link" href="https://github.com/Re-ljk/MyTodoApp" target="_blank" rel="noopener noreferrer" aria-label="View MyTodoApp on GitHub"><img src="/images/projects/my-todo-app.png" alt="MyTodoApp desktop interface" width="100%" loading="lazy" decoding="async"></a></div>
 <div class="paper-box-text">
 
@@ -176,7 +190,6 @@ redirect_from:
   </ul>
 </div>
 </div>
--->
 
 # 📖 Education
 <div class="profile-timeline" aria-label="Education timeline">
