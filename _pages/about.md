@@ -45,19 +45,19 @@ redirect_from:
 
 # 📝 Publications
 
-<h2 class="publication-category">Transfer Learning and Multimodal Large Language Models <i class="fas fa-exchange-alt publication-category__icon" aria-hidden="true"></i></h2>
+<h2 class="publication-category"><span class="publication-category__icon" aria-hidden="true">🔄</span>Transfer Learning and Multimodal Large Language Models</h2>
 
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] One paper submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 
-<h2 class="publication-category">Continual Learning and Multimodal Large Language Models <i class="fas fa-sync-alt publication-category__icon" aria-hidden="true"></i></h2>
+<h2 class="publication-category"><span class="publication-category__icon" aria-hidden="true">♻️</span>Continual Learning and Multimodal Large Language Models</h2>
 
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Two papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 
-<h2 class="publication-category">Transfer Learning and Person Re-Identification <i class="fas fa-fingerprint publication-category__icon" aria-hidden="true"></i></h2>
+<h2 class="publication-category"><span class="publication-category__icon" aria-hidden="true">🕵️‍♂️</span>Transfer Learning and Person Re-Identification</h2>
 
 - [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] One paper submitted to AAAI 2027 — <span style="color:#ff0000"><i>Advanced to Phase 2</i></span>
 
-<h2 class="publication-category">Cross-Modal Retrieval <i class="fas fa-search publication-category__icon" aria-hidden="true"></i></h2>
+<h2 class="publication-category"><span class="publication-category__icon" aria-hidden="true">🔎</span>Cross-Modal Retrieval</h2>
 
 - [<span style="color:#1e90ff">ICASSP 2027, CCF-B</span>] One paper submitted to ICASSP 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">TMM, CCF-A</span>] One paper submitted to TMM — <span style="color:#ff0000"><i>Under Review</i></span>
