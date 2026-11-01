@@ -198,6 +198,7 @@ redirect_from:
 # 📝 Peer Review
 
 - Conference Review: AAAI Reviewer (2026, 2027), ICME Reviewer (2025, 2026), ACM MM Reviewer (2026), ICLR Reviewer (2027), ICASSP Reviewer (2027).
+- Journal Review: Computers, Materials &amp; Continua (CMC) Reviewer, Computer Engineering Reviewer.
 
 # 📖 Education
 <div class="profile-timeline" aria-label="Education timeline">
