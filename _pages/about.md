@@ -21,7 +21,7 @@ redirect_from:
 
 &emsp;&emsp;My research interests focus on **🔄 Transfer Learning, ♻️ Continual Learning, 🕵️‍♂️ Person Re-Identification, 🔎 Cross-Modal Retrieval, and 🤖 Multimodal Large Models**.
 
-&emsp;&emsp;Lately, my research interests have increasingly focused on **wireless sensing with WiFi and mmWave technologies**, particularly **improving model adaptability and generalization across diverse and evolving real-world environments through test-time adaptation**.
+&emsp;&emsp;Recently, I have been increasingly focused on **exploring test-time adaptation for wireless sensing systems, especially WiFi and mmWave-based sensing**, and **enhancing their robustness and generalization under real-world domain shifts**.
 
 &emsp;&emsp;If you are interested in my work, feel free to contact me via **[email](mailto:jiangkuanli@163.com)**, explore my projects on **[GitHub](https://github.com/Re-ljk)**, or visit my **[personal blog](https://www.leejk-magic.top/)** for research updates and project insights. I am always open to collaborations and academic exchanges.
 
