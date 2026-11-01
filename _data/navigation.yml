@@ -23,6 +23,9 @@ main:
   - title: "Selected Projects"
     url: "/#-featured-projects"
 
+  - title: "Peer Review"
+    url: "/#-peer-review"
+
   - title: "Education"
     url: "/#-education"
 
