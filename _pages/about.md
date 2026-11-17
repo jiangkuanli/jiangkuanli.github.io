@@ -49,6 +49,7 @@ redirect_from:
 
 # 📝 Publications
 
+- [<span style="color:#1e90ff">CVPR 2027, CCF-A</span>] Three papers submitted to CVPR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">ICLR 2027, CCF-A</span>] Three papers submitted to ICLR 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
 - [<span style="color:#1e90ff">AAAI 2027, CCF-A</span>] One paper submitted to AAAI 2027 — <span style="color:#ff0000"><i>Advanced to Phase 2</i></span>
 - [<span style="color:#1e90ff">ICASSP 2027, CCF-B</span>] One paper submitted to ICASSP 2027 — <span style="color:#ff0000"><i>Under Review</i></span>
@@ -197,7 +198,7 @@ redirect_from:
 
 # 📝 Peer Review
 
-- Conference Review: AAAI Reviewer (2026, 2027), ICME Reviewer (2025, 2026), ACM MM Reviewer (2026), ICLR Reviewer (2027), ICASSP Reviewer (2027).
+- Conference Review: AAAI Reviewer (2026, 2027), ICME Reviewer (2025, 2026), ACM MM Reviewer (2026), ICLR Reviewer (2027), ICASSP Reviewer (2027), CVPR Reviewer (2027).
 - Journal Review: Computers, Materials &amp; Continua (CMC) Reviewer, Computer Engineering Reviewer.
 
 # 📖 Education
