@@ -35,6 +35,8 @@ redirect_from:
 {% endcomment %}
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.11*]</span> &nbsp;🎉🎉 Three papers were submitted to CVPR 2027! 🍀 Wish us luck!
+- <span style="color:#B00C00">[*2026.11*]</span> &nbsp;📝 Serving as a reviewer for CVPR 2027.
 - <span style="color:#B00C00">[*2026.10*]</span> &nbsp;🎉 Received a Second-Class Graduate Academic Scholarship at UESTC for the second consecutive year!
 - <span style="color:#B00C00">[*2026.09*]</span> &nbsp;🎉🎉 One paper advanced to Phase 2 Review at AAAI 2027! 🍀 Wish us luck!
 - <span style="color:#B00C00">[*2026.09*]</span> &nbsp;🎉🎉 Three papers were submitted to ICLR 2027! 🍀 Wish us luck!
