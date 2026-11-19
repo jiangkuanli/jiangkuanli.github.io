@@ -35,6 +35,7 @@ redirect_from:
 {% endcomment %}
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.11*]</span> &nbsp;🎉 Our patent on parameter memory routing for continual visual recognition was published ([CN123117199A](http://epub.cnipa.gov.cn/patent/CN123117199A)).
 - <span style="color:#B00C00">[*2026.11*]</span> &nbsp;🎉🎉 Three papers were submitted to CVPR 2027! 🍀 Wish us luck!
 - <span style="color:#B00C00">[*2026.10*]</span> &nbsp;🎉 Received a Second-Class Graduate Academic Scholarship at UESTC for the second consecutive year!
 - <span style="color:#B00C00">[*2026.09*]</span> &nbsp;🎉🎉 One paper advanced to Phase 2 Review at AAAI 2027! 🍀 Wish us luck!
@@ -89,13 +90,15 @@ redirect_from:
 
   <li class="patent-item">
     <div class="patent-item__heading">
-      <span class="patent-item__type">Patent Application</span>
-      <span class="patent-item__status patent-item__status--pending">Application Accepted</span>
+      <span class="patent-item__type">Published Patent</span>
+      <span class="patent-item__status">Published · 2026.11.17</span>
     </div>
     <p class="patent-item__title">A Parameter Memory Routing Method, System, and Electronic Device for Continual Visual Recognition</p>
     <div class="patent-item__meta">
       <span><i class="fas fa-user-friends" aria-hidden="true"></i> 2/6 inventors</span>
-      <span class="patent-item__note">Application No. 2026114194626</span>
+      <a href="http://epub.cnipa.gov.cn/patent/CN123117199A" target="_blank" rel="noopener noreferrer" aria-label="View patent CN123117199A on CNIPA">
+        CN123117199A <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+      </a>
     </div>
   </li>
 </ul>
