@@ -63,7 +63,7 @@ redirect_from:
   <li class="patent-item">
     <div class="patent-item__heading">
       <span class="patent-item__type">Published Patent</span>
-      <span class="patent-item__status">Substantive Examination</span>
+      <span class="patent-item__status">Under Substantive Examination</span>
     </div>
     <p class="patent-item__title">A Wavelet-Enhanced Test-Time Adaptation Method, System, and Device for Real-World Degradation Scenarios</p>
     <div class="patent-item__meta">
@@ -77,7 +77,7 @@ redirect_from:
   <li class="patent-item">
     <div class="patent-item__heading">
       <span class="patent-item__type">Published Patent</span>
-      <span class="patent-item__status">Substantive Examination</span>
+      <span class="patent-item__status">Under Substantive Examination</span>
     </div>
     <p class="patent-item__title">An Attribute-Decoupled Multi-Subspace Proxy Learning Method for Text-Image Person Re-Identification</p>
     <div class="patent-item__meta">
@@ -91,7 +91,7 @@ redirect_from:
   <li class="patent-item">
     <div class="patent-item__heading">
       <span class="patent-item__type">Published Patent</span>
-      <span class="patent-item__status">Published · 2026.11.17</span>
+      <span class="patent-item__status">Under Substantive Examination</span>
     </div>
     <p class="patent-item__title">A Parameter Memory Routing Method, System, and Electronic Device for Continual Visual Recognition</p>
     <div class="patent-item__meta">
